@@ -1,0 +1,282 @@
+[
+  {
+    "id": 142208831,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 7,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Two bedroom bungalow in a sought after road in Twyford. Offered for sale with no onward chain this detached bungalow offers two bedrooms and approx 17ft reception room, kitchen and family bathroom. The property further boasts driveway parking, garage and private rear garden. EPC rating E.",
+    "displayAddress": "Wessex Gardens, Twyford, Reading, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.471422,
+      "longitude": -0.860232
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_10_0000.jpeg",
+          "caption": "Picture No. 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_09_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_01_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_02_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_03_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_06_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_07_0000.jpeg",
+          "caption": "Picture No. 09"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T14:20:27Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 450000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3450,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48230,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_43511_0010.jpeg",
+      "contactTelephone": "0118 230 1561",
+      "branchDisplayName": "Davis Tate, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Davis Tate",
+      "branchLandingPageUrl": "/estate-agents/agent/Davis-Tate/Twyford-48230.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_43511_0010_max_100x50.jpeg"
+    },
+    "distance": 0.3132,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "No Chain",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/142208831#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=142208831",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-11-20T17:50:38Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by Davis Tate, Twyford",
+    "formattedDistance": "0.31 miles",
+    "propertyTypeFullDescription": "2 bedroom bungalow for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 142219511,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "NO ONWARD CHAIN! - Offered to the market and in need of modernisation is this two-bedroom detached bungalow with driveway parking and a garage.",
+    "displayAddress": "Wessex Gardens, Twyford, Reading, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.47135,
+      "longitude": -0.860373
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_00_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_01_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_02_0000.jpeg",
+          "caption": "Picture No. 03"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_03_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_04_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_05_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_06_0000.jpeg",
+          "caption": "Picture No. 02"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_07_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_08_0000.jpeg",
+          "caption": "Picture No. 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_09_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_10_0000.jpeg",
+          "caption": "Picture No. 13"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T11:54:10Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 450000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3450,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6539,
+      "brandPlusLogoURI": "/7k/6539/branch_rmchoice_logo_6539_0000.jpeg",
+      "contactTelephone": "0118 230 3206",
+      "branchDisplayName": "Parkers Estate Agents, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Parkers Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Parkers-Estate-Agents/Twyford-6539.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/7k/6539/branch_rmchoice_logo_6539_0000_max_100x50.jpeg"
+    },
+    "distance": 0.3153,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "No Chain",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/142219511#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=142219511",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-11-21T09:06:08Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by Parkers Estate Agents, Twyford",
+    "formattedDistance": "0.32 miles",
+    "propertyTypeFullDescription": "2 bedroom bungalow for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

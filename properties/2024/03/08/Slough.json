@@ -1,0 +1,1737 @@
+[
+  {
+    "id": 145416659,
+    "bedrooms": 3,
+    "bathrooms": null,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "** Spacious Three Bedroom Family Home ** Potential for Driveway ** Garage (With Access Via The Garden) ** Good Size Rear Garden ** Potential for Rear Extension ** Popular Location in Cippenham Village ** Gas Central Heating & UPVC Double Glazing ** Popular Cippenham Schools ** CALL FOR OPEN DAY **",
+    "displayAddress": "Hardy Close, Slough, Berkshire, SL1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.51163,
+      "longitude": -0.62926
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_08_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_03_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_10_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_02_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_07_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_09_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_11_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_12_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_13_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_14_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_01_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_00_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_05_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_04_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_04_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T09:27:22Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": true,
+    "price": {
+      "amount": 415000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3415,000",
+          "displayPriceQualifier": "Offers in Region of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 143054,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_45287_0001.png",
+      "contactTelephone": "01628 965436",
+      "branchDisplayName": "Jackson O'Rourke, Cippenham",
+      "branchName": "Cippenham",
+      "brandTradingName": "Jackson O'Rourke",
+      "branchLandingPageUrl": "/estate-agents/agent/Jackson-ORourke/Cippenham-143054.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_45287_0001_max_100x50.png"
+    },
+    "distance": 1.6174,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145416659#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145416659",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T09:22:05Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "Featured Property",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Jackson O'Rourke, Cippenham",
+    "formattedDistance": "1.62 miles",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale"
+  },
+  {
+    "id": 145490876,
+    "bedrooms": 3,
+    "bathrooms": null,
+    "numberOfImages": 13,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "A Three Bedroom Semi Detached House , two receptions with private front and back gardens and off street parking for at least two cars and a garage on a desirable residential street in Langley.",
+    "displayAddress": "Langley, Slough, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.497,
+      "longitude": -0.558
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_00_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_00_0000.jpeg",
+          "caption": "External View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_01_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_01_0000.jpeg",
+          "caption": "Living Area"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_02_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_02_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_03_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_03_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_04_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_04_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_05_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_05_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_06_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_06_0000.jpeg",
+          "caption": "Internal View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_07_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_07_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_08_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_08_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_09_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_09_0000.jpeg",
+          "caption": "Garden View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_10_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_10_0000.jpeg",
+          "caption": "Garden View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_11_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_11_0000.jpeg",
+          "caption": "External View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_12_0000_max_476x317.jpeg",
+          "url": "146k/145253/145490876/145253_5344207_IMG_12_0000.jpeg",
+          "caption": "Garden View"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/146k/145253/145490876/145253_5344207_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T16:21:06Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 700000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3700,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 145253,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_12284_0003.png",
+      "contactTelephone": "01753 251931",
+      "branchDisplayName": "Chancellors, Slough",
+      "branchName": "Slough",
+      "brandTradingName": "Chancellors",
+      "branchLandingPageUrl": "/estate-agents/agent/Chancellors/Slough-145253.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_12284_0003_max_100x50.png"
+    },
+    "distance": 1.7927,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "1,152 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145490876#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145490876",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T16:15:38Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Chancellors, Slough",
+    "formattedDistance": "1.79 miles",
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale"
+  },
+  {
+    "id": 145380938,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "This 2 bedroom semi-detached property situated in a popular residential location. Property comprises of 2 bedrooms, kitchen / diner, lounge and family bathroom. Further benefits driveway parking and outhouse fit for a home office or gym. Viewing Advised!",
+    "displayAddress": "Elliman Avenue, Slough, SL2",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.51821,
+      "longitude": -0.592199
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_00_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_00_0000.jpeg",
+          "caption": "Photo 6"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_01_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_01_0000.jpeg",
+          "caption": "Photo 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_02_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_02_0000.jpeg",
+          "caption": "Photo 9"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_03_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_03_0000.jpeg",
+          "caption": "Photo 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_04_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_04_0000.jpeg",
+          "caption": "Photo 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_05_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_05_0000.jpeg",
+          "caption": "Photo 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_06_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_06_0000.jpeg",
+          "caption": "Photo 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_07_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_07_0000.jpeg",
+          "caption": "Photo 8"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_08_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_08_0000.jpeg",
+          "caption": "Photo 7"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_09_0000_max_476x317.jpeg",
+          "url": "62k/61845/145380938/61845_11306099_IMG_09_0000.jpeg",
+          "caption": "Photo 4"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61845/145380938/61845_11306099_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T15:47:26Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 410000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3410,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 61845,
+      "brandPlusLogoURI": "/62k/61845/branch_rmchoice_logo_61845_0000.jpeg",
+      "contactTelephone": "01753 910880",
+      "branchDisplayName": "Addison Giles, Slough",
+      "branchName": "Slough",
+      "brandTradingName": "Addison Giles",
+      "branchLandingPageUrl": "/estate-agents/agent/Addison-Giles/Slough-61845.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/62k/61845/branch_rmchoice_logo_61845_0000_max_100x50.jpeg"
+    },
+    "distance": 0.4236,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145380938#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145380938",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-04T11:58:24Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Addison Giles, Slough",
+    "formattedDistance": "0.42 miles",
+    "propertyTypeFullDescription": "2 bedroom semi-detached house for sale"
+  },
+  {
+    "id": 144724289,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 12,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Brickfield Court is a select development situated along the Bath Road and conveniently located within walking distanc of Slough High St & mainline railway station. This two bedroom, two bathroom property, offers the latest contemporary fixtures and fittings, Bosch appliances, oak flooring & parking.",
+    "displayAddress": "Bath Road, Slough",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.5105,
+      "longitude": -0.60085
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_05_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_05_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_01_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_01_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_02_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_02_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_03_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_03_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_00_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_00_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_11_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_11_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_10_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_10_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_08_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_08_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_09_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_09_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_06_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_06_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_07_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_07_0001.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_04_0001_max_476x317.jpeg",
+          "url": "2k/1579/144724289/1579_SGH309924_IMG_04_0001.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_05_0001_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/2k/1579/144724289/1579_SGH309924_IMG_05_0001_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T15:04:42Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 250000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3250,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 1579,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_43_0001.jpeg",
+      "contactTelephone": "01753 387402",
+      "branchDisplayName": "Connells, Slough",
+      "branchName": "Slough",
+      "brandTradingName": "Connells",
+      "branchLandingPageUrl": "/estate-agents/agent/Connells/Slough-1579.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_43_0001_max_100x50.jpeg"
+    },
+    "distance": 0.4065,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/144724289#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=144724289",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-02-14T14:27:50Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by Connells, Slough",
+    "formattedDistance": "0.41 miles",
+    "propertyTypeFullDescription": "2 bedroom flat for sale"
+  },
+  {
+    "id": 145482197,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 18,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": " B Simmons are proud to present this well-presented single berth park home situated on the ever popular Orchards Residential Park on the outskirts of Langley, and within walking distance of an array of local amenities. The property is offered with NO ONWARD CHAIN. The property is well present...",
+    "displayAddress": "Orchards Residential Park, Langley",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.512287,
+      "longitude": -0.54704
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_00_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_00_0000.jpeg",
+          "caption": "Photo 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_01_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_01_0000.jpeg",
+          "caption": "Photo 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_02_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_02_0000.jpeg",
+          "caption": "Photo 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_03_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_03_0000.jpeg",
+          "caption": "Photo 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_04_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_04_0000.jpeg",
+          "caption": "Photo 7"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_05_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_05_0000.jpeg",
+          "caption": "Photo 6"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_06_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_06_0000.jpeg",
+          "caption": "Photo 8"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_07_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_07_0000.jpeg",
+          "caption": "Photo 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_08_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_08_0000.jpeg",
+          "caption": "Photo 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_09_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_09_0000.jpeg",
+          "caption": "Photo 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_10_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_10_0000.jpeg",
+          "caption": "Photo 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_11_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_11_0000.jpeg",
+          "caption": "Photo 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_12_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_12_0000.jpeg",
+          "caption": "Photo 18"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_13_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_13_0000.jpeg",
+          "caption": "Photo 4"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_14_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_14_0000.jpeg",
+          "caption": "Photo 9"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_15_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_15_0000.jpeg",
+          "caption": "Photo 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_16_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_16_0000.jpeg",
+          "caption": "Photo 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_17_0000_max_476x317.jpeg",
+          "url": "108k/107261/145482197/107261_12294667_IMG_17_0000.jpeg",
+          "caption": "Photo 13"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/145482197/107261_12294667_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Mobile Home",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T14:19:05Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 115000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3115,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 107261,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_2114_0003.jpeg",
+      "contactTelephone": "01753 969796",
+      "branchDisplayName": "B. Simmons, Langley",
+      "branchName": "Langley",
+      "brandTradingName": "B. Simmons",
+      "branchLandingPageUrl": "/estate-agents/agent/B-Simmons/Langley-107261.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_2114_0003_max_100x50.jpeg"
+    },
+    "distance": 1.9304,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145482197#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145482197",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T14:13:37Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": true,
+    "lozengeModel": {
+      "matchingLozenges": [
+        {
+          "type": "ONLINE_VIEWINGS",
+          "priority": 6
+        }
+      ]
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by B. Simmons, Langley",
+    "formattedDistance": "1.93 miles",
+    "propertyTypeFullDescription": "1 bedroom mobile home for sale"
+  },
+  {
+    "id": 145477799,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 19,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A superb top floor apartment with fabulous views across the River Thames and the backdrop of Windsor Castle. Highly recommended by Sole Agents",
+    "displayAddress": "ETON, Windsor SL4",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.48863,
+      "longitude": -0.60791
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_15_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_16_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_09_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_10_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_04_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_05_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_07_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_08_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_06_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_03_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_00_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_02_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_01_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_11_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_12_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_13_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_14_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_17_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_18_0000_max_476x317.jpeg",
+          "url": "84k/83417/145477799/83417_BAWGCEBC_IMG_18_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_15_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/84k/83417/145477799/83417_BAWGCEBC_IMG_15_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T13:49:03Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 550000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3550,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 83417,
+      "brandPlusLogoURI": "/84k/83417/branch_rmchoice_logo_83417_0001.jpeg",
+      "contactTelephone": "01753 387267",
+      "branchDisplayName": "Warren Property Matters, WINDSOR",
+      "branchName": "WINDSOR",
+      "brandTradingName": "Warren Property Matters",
+      "branchLandingPageUrl": "/estate-agents/agent/Warren-Property-Matters/WINDSOR-83417.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/84k/83417/branch_rmchoice_logo_83417_0001_max_100x50.jpeg"
+    },
+    "distance": 1.7652,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "646 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145477799#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145477799",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T13:43:11Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Warren Property Matters, WINDSOR",
+    "formattedDistance": "1.77 miles",
+    "propertyTypeFullDescription": "1 bedroom apartment for sale"
+  },
+  {
+    "id": 145477790,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 4,
+    "numberOfFloorplans": 4,
+    "numberOfVirtualTours": 0,
+    "summary": "AUCTION SALE 16 April 2024 - Leasehold ground floor flat,82 years remaining on the lease,TO SELL YOUR PROPERTY IN OUR NEXT AUCTION CALL US NOW.",
+    "displayAddress": "Charles Gardens, SLOUGH",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.52032,
+      "longitude": -0.58115
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_00_0000_max_476x317.jpeg",
+          "url": "25k/24437/145477790/24437_AUC0041702_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_01_0000_max_476x317.jpeg",
+          "url": "25k/24437/145477790/24437_AUC0041702_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_02_0000_max_476x317.jpeg",
+          "url": "25k/24437/145477790/24437_AUC0041702_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_03_0000_max_476x317.jpeg",
+          "url": "25k/24437/145477790/24437_AUC0041702_IMG_03_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/25k/24437/145477790/24437_AUC0041702_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Ground Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T13:04:04Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 180000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3180,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 24437,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_282_0004.jpeg",
+      "contactTelephone": "020 3866 9305",
+      "branchDisplayName": "Barnard Marcus, Hammersmith Auctions",
+      "branchName": "Hammersmith Auctions",
+      "brandTradingName": "Barnard Marcus",
+      "branchLandingPageUrl": "/estate-agents/agent/Barnard-Marcus/Hammersmith-Auctions-24437.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_282_0004_max_100x50.jpeg"
+    },
+    "distance": 0.7309,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": true,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145477790#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145477790",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T12:58:29Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by Barnard Marcus, Hammersmith Auctions",
+    "formattedDistance": "0.73 miles",
+    "propertyTypeFullDescription": "2 bedroom ground floor flat for sale"
+  },
+  {
+    "id": 145473272,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "This three bedroom terraced house in the sought after Wexham Court area, provides a great home in good condition. The property offers potential to extend (*STPP) and will appeal to first time buyers, professionals, families or investors looking to add to their portfolio. The ground floor accomm...",
+    "displayAddress": "Norway Drive, Slough, SL2",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.525707,
+      "longitude": -0.576332
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_00_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_00_0000.jpeg",
+          "caption": "Living / Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_01_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_01_0000.jpeg",
+          "caption": "Living / Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_02_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_02_0000.jpeg",
+          "caption": "Living / Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_03_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_03_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_04_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_04_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_05_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_05_0000.jpeg",
+          "caption": "Dining Room / Study"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_06_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_06_0000.jpeg",
+          "caption": "Bedroom One"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_07_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_07_0000.jpeg",
+          "caption": "Bedroom Two"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_08_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_08_0000.jpeg",
+          "caption": "Bedroom Three"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_09_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_09_0000.jpeg",
+          "caption": "Cloak Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_10_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_10_0000.jpeg",
+          "caption": "Shower Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_11_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_11_0000.jpeg",
+          "caption": "Rear Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_12_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_12_0000.jpeg",
+          "caption": "Rear Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_13_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_13_0000.jpeg",
+          "caption": "Rear View"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_14_0000_max_476x317.jpeg",
+          "url": "203k/202838/145473272/202838_1615510-1_IMG_14_0000.jpeg",
+          "caption": "Front View"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/203k/202838/145473272/202838_1615510-1_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T12:07:05Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 475000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3475,000",
+          "displayPriceQualifier": "Offers Over"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 202838,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_34399_0005.jpeg",
+      "contactTelephone": "020 3909 6711",
+      "branchDisplayName": "Purplebricks, covering Slough",
+      "branchName": "covering Slough",
+      "brandTradingName": "Purplebricks",
+      "branchLandingPageUrl": "/estate-agents/agent/Purplebricks/covering-Slough-202838.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_34399_0005_max_100x50.jpeg"
+    },
+    "distance": 1.1536,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Premium Listing",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145473272#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145473272",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T12:01:07Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Purplebricks, covering Slough",
+    "formattedDistance": "1.15 miles",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale"
+  },
+  {
+    "id": 145466603,
+    "bedrooms": 2,
+    "bathrooms": null,
+    "numberOfImages": 1,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Plots Available Just as the name conjures up images of the open countryside,\u00a0 The Orchards Park is found in the stunning and peaceful locale of Langley in historic Royal Berkshire. Far from being remote though, the town is within walking distance and there\u2019s a wealth of sporting and...",
+    "displayAddress": "The Orchards Park, Pickford Road, Langley, Berkshire",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.51275,
+      "longitude": -0.55011
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/234k/233729/145466603/233729_The-Orchards-Residential-Park-11162_IMG_00_0000_max_476x317.jpeg",
+          "url": "234k/233729/145466603/233729_The-Orchards-Residential-Park-11162_IMG_00_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/234k/233729/145466603/233729_The-Orchards-Residential-Park-11162_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/234k/233729/145466603/233729_The-Orchards-Residential-Park-11162_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Park Home",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T10:44:27Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 199950,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3199,950",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 233729,
+      "brandPlusLogoURI": "/234k/233729/branch_rmchoice_logo_233729_0002.png",
+      "contactTelephone": "020 3910 6164",
+      "branchDisplayName": "Sell My Group, Lytham",
+      "branchName": "Lytham",
+      "brandTradingName": "Sell My Group",
+      "branchLandingPageUrl": "/estate-agents/agent/Sell-My-Group/Lytham-233729.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/234k/233729/branch_rmchoice_logo_233729_0002_max_100x50.png"
+    },
+    "distance": 1.7985,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145466603#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145466603",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T10:39:01Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Sell My Group, Lytham",
+    "formattedDistance": "1.80 miles",
+    "propertyTypeFullDescription": "2 bedroom park home for sale"
+  },
+  {
+    "id": 145416659,
+    "bedrooms": 3,
+    "bathrooms": null,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "** Spacious Three Bedroom Family Home ** Potential for Driveway ** Garage (With Access Via The Garden) ** Good Size Rear Garden ** Potential for Rear Extension ** Popular Location in Cippenham Village ** Gas Central Heating & UPVC Double Glazing ** Popular Cippenham Schools ** CALL FOR OPEN DAY **",
+    "displayAddress": "Hardy Close, Slough, Berkshire, SL1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.51163,
+      "longitude": -0.62926
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_08_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_03_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_10_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_02_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_07_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_09_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_11_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_12_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_13_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_14_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_01_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_00_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_05_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_04_0000_max_476x317.jpeg",
+          "url": "144k/143054/145416659/143054_JOR39HardyClose_IMG_04_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/144k/143054/145416659/143054_JOR39HardyClose_IMG_06_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-07T09:27:22Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 415000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3415,000",
+          "displayPriceQualifier": "Offers in Region of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 143054,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_45287_0001.png",
+      "contactTelephone": "01628 965436",
+      "branchDisplayName": "Jackson O'Rourke, Cippenham",
+      "branchName": "Cippenham",
+      "brandTradingName": "Jackson O'Rourke",
+      "branchLandingPageUrl": "/estate-agents/agent/Jackson-ORourke/Cippenham-143054.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_45287_0001_max_100x50.png"
+    },
+    "distance": 1.6174,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145416659#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145416659",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-07T09:22:05Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Jackson O'Rourke, Cippenham",
+    "formattedDistance": "1.62 miles",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale"
+  },
+  {
+    "id": 145154405,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 2,
+    "numberOfVirtualTours": 0,
+    "summary": "Oakwood Estates is thrilled to showcase this remarkable extended townhouse, featuring four bedrooms and two bathrooms, to the market. Boasting a delightful conservatory extension, a detached garage and driveway, and a south-facing rear garden that adjoins the school sports fields, this propert...",
+    "displayAddress": "Benjamin Lane, Wexham, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.529272,
+      "longitude": -0.576611
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_00_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_01_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_02_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_03_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_04_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_05_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_06_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_07_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_08_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_09_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_10_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_11_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_12_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_13_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_14_0000_max_476x317.jpeg",
+          "url": "72k/71262/145154405/71262_27237818_IMG_14_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/72k/71262/145154405/71262_27237818_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Town House",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T09:25:57Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 550000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3550,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 71262,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_32702_0002.jpeg",
+      "contactTelephone": "01753 783943",
+      "branchDisplayName": "Oakwood Estates, Iver",
+      "branchName": "Iver",
+      "brandTradingName": "Oakwood Estates",
+      "branchLandingPageUrl": "/estate-agents/agent/Oakwood-Estates/Iver-71262.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_32702_0002_max_100x50.jpeg"
+    },
+    "distance": 1.3564,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145154405#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145154405",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-02-27T11:48:11Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by Oakwood Estates, Iver",
+    "formattedDistance": "1.36 miles",
+    "propertyTypeFullDescription": "4 bedroom town house for sale"
+  }
+]
