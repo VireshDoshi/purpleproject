@@ -2,6 +2,31 @@ import json
 import pandas as pd
 import haversine as hs
 import os
+from geopy.geocoders import Nominatim
+import requests
+
+ROUTE_DIRECTIONS_KEY = os.getenv('ROUTE_DIRECTIONS_KEY')
+ROUTE_DIRECTIONS_HOST = os.getenv('ROUTE_DIRECTIONS_HOST')
+
+
+def get_lat_long_from_address(address):
+    locator = Nominatim(user_agent='myGeocoder')
+    location = locator.geocode(address)
+    return location.latitude, location.longitude
+# example
+# address = 'Zeeweg 94, 2051 EC Overveen'
+# get_lat_long_from_address(address)
+# >>> (52.4013046, 4.5425025)
+
+
+def get_directions_response(lat1, long1, lat2, long2, mode='drive'):
+    url = "https://route-and-directions.p.rapidapi.com/v1/routing"
+    key = ROUTE_DIRECTIONS_KEY
+    host = ROUTE_DIRECTIONS_HOST
+    headers = {"X-RapidAPI-Key": key, "X-RapidAPI-Host": host}
+    qs = {"waypoints": f"{str(lat1)},{str(long1)}|{str(lat2)},{str(long2)}","mode": mode}
+    response = requests.request("GET", url, headers=headers, params=qs)
+    return response
 
 
 def distance_from(loc1, loc2):
@@ -29,8 +54,6 @@ def list_files():
     print(brands)
 
 
-
-
 def main():
 
     # Read in station data for Maidenhead
@@ -44,7 +67,13 @@ def main():
     #                                      float(property["location"]["longitude"]))
     #     print(f'House:{prop_id} closest station is {closest_station} at a distance of {disance_to_property} Miles' )
 
-    list_files()
+    # list_files()
+    # address = '3 chalgrove close, maidenhead, SL6 1XN'
+    # lat,long = get_lat_long_from_address(address)
+    # print(f'lat={lat}, long={long}')
+
+    response = get_directions_response(51.518667426954124,-0.7226749105747798, 51.473419, -0.491683)
+    print(response.raw)
 
 
 if __name__ == "__main__":

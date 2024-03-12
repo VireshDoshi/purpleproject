@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+import requests
 import folium
 from folium.plugins import Fullscreen
 from streamlit_folium import st_folium, folium_static
@@ -11,11 +11,42 @@ import os
 
 STATIONS = ["Maidenhead", "Taplow", "Twyford", "Slough", "Langley", "Reading"]
 PROPERTY_EXTRACT_DATE = '2024/03/06'
-PROPERTY_DISPLAY_LIMIT = 20
+PROPERTY_DISPLAY_LIMIT = 2
+ROUTE_DIRECTIONS_KEY = os.getenv('ROUTE_DIRECTIONS_KEY')
+ROUTE_DIRECTIONS_HOST = os.getenv('ROUTE_DIRECTIONS_HOST')
+
 feature_groups = {}
 float_url = (
     "https://raw.githubusercontent.com/ocefpaf/secoora_assets_map/a250729bbcf2ddd12f46912d36c33f7539131bec/secoora_icons/rose.png"
 )
+
+
+def plot_route_to_landmark(property_id: str, landmark: str, mymap: folium.Map, color: str):
+    if  os.path.exists(f'./process_distances/{landmark}/{property_id}.json'):
+        with open(f'process_distances/{landmark}/{property_id}.json', 'r') as f:
+            data = json.loads(f.read())
+        try:
+            mls = data['features'][0]['geometry']['coordinates']
+            time_to_landmark = data['features'][0]['properties']['time']
+            time_to_landmark_mins=round(float(time_to_landmark/60))
+            points = [(i[1], i[0]) for i in mls[0]]
+            # add marker for the start and ending points
+            for point in [points[0], points[-1]]:
+                folium.Marker(point).add_to(mymap)
+            # add the lines
+            folium.PolyLine(points, weight=5, opacity=1, dash_array='20 20', color=f'{color}', tooltip=f'it will take {time_to_landmark_mins}mins to {landmark}').add_to(mymap)
+        except KeyError as e:
+            print(f'skip plot for {property_id}')
+
+
+def get_directions_response(lat1, long1, lat2, long2, mode='drive'):
+    url = "https://route-and-directions.p.rapidapi.com/v1/routing"
+    key = ROUTE_DIRECTIONS_KEY
+    host = ROUTE_DIRECTIONS_HOST
+    headers = {"X-RapidAPI-Key": key, "X-RapidAPI-Host": host}
+    qs = {"waypoints": f"{str(lat1)},{str(long1)}|{str(lat2)},{str(long2)}","mode": mode}
+    response = requests.request("GET", url, headers=headers, params=qs)
+    return response
 
 
 def mark_poi(station: str, mymap: folium.Map):
@@ -106,6 +137,13 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
                       icon=folium.Icon(icon="home", prefix='fa'),
                       tooltip=f"{propertyTypeFullDesc} for {price}").add_to(
                           feature_groups[str(station)])
+        # plot the distance to Heathrow
+        print(property_id)
+        plot_route_to_landmark(property_id=property_id,
+                               landmark='heathrow', mymap=mymap, color='green')
+        # Plot ikea routes
+        plot_route_to_landmark(property_id=property_id,
+                               landmark='ikea', mymap=mymap, color='yellow') 
         property_count = property_count + 1
         if property_count > limit_properties:
             break
