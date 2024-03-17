@@ -72,7 +72,7 @@ def plot_route_to_landmark(property_id: str, landmark: str, mymap: folium.Map, c
             folium.PolyLine(points, weight=5, opacity=1, dash_array=f'{dash_array}', color=f'{color}').add_to(feature_groups[str(station)])
             return int(time_to_landmark_mins)
         except KeyError as e:
-            print(f'skip plot for {property_id}')
+            print(f'skip plot for {property_id} with {landmark}')
             return 0
 
 
@@ -173,7 +173,6 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
         price = str(property["price"]["displayPrices"][0]["displayPrice"])
         main_image = str(property["propertyImages"]["mainImageSrc"])
 
-
         # Add each row to the map
         lat = float(property["location"]["latitude"])
         lon = float(property["location"]["longitude"])
@@ -187,6 +186,9 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
         # Plot ikea routes
         ikea_time_int = plot_route_to_landmark(property_id=property_id,
                                landmark='ikea', mymap=mymap, color='yellow', station=str(station), dash_array='10') 
+        # Plot gatwick routes
+        gatwick_time_int = plot_route_to_landmark(property_id=property_id,
+                               landmark='gatwick', mymap=mymap, color='orange', station=str(station), dash_array='10') 
 
         popup_html = f"<h4>{propertyTypeFullDesc}</h4>"
         popup_html += f"The closest Elizabeth Line station  is <b>{closest_station}</b> "
@@ -197,6 +199,7 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
         popup_html += f"<b>Price:</b> {price}<br/>"
         popup_html += f"<h4>it will take {heathrow_time_int} mins to travel to Heathrow by car</h4>"
         popup_html += f"<h4>it will take {ikea_time_int} mins to travel to Ikea by car</h4>"
+        popup_html += f"<h4>it will take {gatwick_time_int} mins to travel to Gatwick by car</h4>"
 
         popup_html += f"<img src='{main_image}' alt='property'>"
         iframe2 = folium.IFrame(html=popup_html, height=400, width=400)

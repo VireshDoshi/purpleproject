@@ -4,7 +4,6 @@ Maidenhead,mcdonalds, 51.522885733119715, -0.7212925719583863, www.mcdonalds.co.
 Maidenhead,Library, 51.52236953478425, -0.7174334222240222, www.rbwm.co.uk, No
 Maidenhead,Kidwells park, 51.524545721452064, -0.72197171985833, www.rbwm.co.uk, Yes
 Maidenhead,Nandos, 51.522795762692716, -0.6783561474861883, www.nandos.co.uk, Yes
-Maidenhead,Heathrow Airport, 51.47147469924427, -0.4900636838143857, www.heathrow.co.uk, No
 Maidenhead,Waitrose, 51.5232937790332, -0.7141816246067482, www.waitrose.co.uk, Yes
 Maidenhead,Sainsburys, 51.520372461442506, -0.6685922489884956, www.sainsburys.co.uk, Yes
 Taplow,Asda, 51.50797791472881, -0.628286707842935, www.asda.co.uk, Yes
@@ -18,3 +17,4 @@ Slough,mcdonalds,51.50726724038147, -0.6291228529939931,www.mcdonalds,Yes
 Slough,mcdonalds,51.52074088176843, -0.6152238302546745,www.mc,Yes
 Slough,mcdonalds,51.50861279405796, -0.5911006225563403,www.mc,Yes
 Slough,mcdonalds,51.50327040478836, -0.5996836909034567,www.mc,Yes
+all,gatwick,51.154341918481435, -0.1752226011130205,,No

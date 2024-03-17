@@ -17,7 +17,7 @@ STATIONS = Stations
 ROUTE_DIRECTIONS_KEY = os.getenv('ROUTE_DIRECTIONS_KEY')
 ROUTE_DIRECTIONS_HOST = os.getenv('ROUTE_DIRECTIONS_HOST')
 PROPERTY_EXTRACT_DATE = get_latest_properties_folder()
-PROPERTY_DISPLAY_LIMIT = 2
+PROPERTY_DISPLAY_LIMIT = 5
 
 
 def get_lat_long_from_address(address):
@@ -55,16 +55,15 @@ def get_distances_for_properties(landmark):
 
             df = pd.read_csv('./purpleline/data/poi.csv',
                              usecols=['station', 'poi', 'Latitude', 'Longitude', 'Link'])  # noqa: E501
-            df = df[(df.station == 'all')]
+            df = df[(df['station'] == 'all')]
+            df = df[(df['poi'] == landmark)]
 
             for i, row in df.iterrows():
                 landmark_coord = row['Latitude'], row['Longitude']
 
-                # heathrow_coord = 51.473419, -0.491683
-
             if not os.path.exists(f'./purpleline/data/distances/{landmark}/{prop_id}.json'):
                 res = get_directions_res(prop_lat,prop_lan, landmark_coord[0], landmark_coord[1])
-                time.sleep(2)
+                time.sleep(3)
                 json_object = json.dumps(res.json())
                 with open(f"./purpleline/data/distances/{landmark}/{prop_id}.json", "w") as outfile:
                     outfile.write(json_object)
@@ -77,6 +76,8 @@ def get_distances_for_properties(landmark):
 def main():
     # response = get_directions_res(51.518667426954124,-0.7226749105747798, 51.473419, -0.491683)
     get_distances_for_properties("ikea")
+    get_distances_for_properties("heathrow")
+    get_distances_for_properties("gatwick")
 
 
 if __name__ == "__main__":
