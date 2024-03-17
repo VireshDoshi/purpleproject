@@ -1,0 +1,392 @@
+[
+  {
+    "id": 145809935,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "This STUNNING HOME is located on a popular estate in Woodley close to Dinton Pastures. The property has spacious accommodation over three floors comprising a LARGE SITTING ROOM, a refitted kitchen with breakfast bar, a STUNNING MASTER BEDROOM en suite shower and dressing room, and no onward chain.",
+    "displayAddress": "Hawthorn Crescent, Reading, RG5",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.460372,
+      "longitude": -0.878995
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_01_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_02_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_03_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_04_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_05_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_06_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_07_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_08_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_09_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_10_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_11_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_12_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_13_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_14_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_15_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_16_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_17_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_18_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_19_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_19_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Town House",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-16T09:17:02Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": true,
+    "price": {
+      "amount": 500000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3500,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 203807,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_43678_0008.jpeg",
+      "contactTelephone": "01322 952994",
+      "branchDisplayName": "Yopa, South East & London",
+      "branchName": "South East & London",
+      "brandTradingName": "Yopa",
+      "branchLandingPageUrl": "/estate-agents/agent/Yopa/South-East-and-London-203807.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_43678_0008_max_100x50.jpeg"
+    },
+    "distance": 1.2528,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Premium Listing",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145809935#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145809935",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-16T09:11:07Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "Featured Property",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Yopa, South East & London",
+    "formattedDistance": "1.25 miles",
+    "propertyTypeFullDescription": "3 bedroom town house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145809935,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "This STUNNING HOME is located on a popular estate in Woodley close to Dinton Pastures. The property has spacious accommodation over three floors comprising a LARGE SITTING ROOM, a refitted kitchen with breakfast bar, a STUNNING MASTER BEDROOM en suite shower and dressing room, and no onward chain.",
+    "displayAddress": "Hawthorn Crescent, Reading, RG5",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.460372,
+      "longitude": -0.878995
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_01_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_02_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_03_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_04_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_05_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_06_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_07_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_08_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_09_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_10_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_11_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_12_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_13_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_14_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_15_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_16_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_17_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_18_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_19_0000_max_476x317.jpeg",
+          "url": "204k/203807/145809935/203807_332520_IMG_19_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/204k/203807/145809935/203807_332520_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Town House",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-16T09:17:02Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 500000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3500,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 203807,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_43678_0008.jpeg",
+      "contactTelephone": "01322 952994",
+      "branchDisplayName": "Yopa, South East & London",
+      "branchName": "South East & London",
+      "brandTradingName": "Yopa",
+      "branchLandingPageUrl": "/estate-agents/agent/Yopa/South-East-and-London-203807.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_43678_0008_max_100x50.jpeg"
+    },
+    "distance": 1.2528,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Premium Listing",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145809935#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145809935",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-16T09:11:07Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Yopa, South East & London",
+    "formattedDistance": "1.25 miles",
+    "propertyTypeFullDescription": "3 bedroom town house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

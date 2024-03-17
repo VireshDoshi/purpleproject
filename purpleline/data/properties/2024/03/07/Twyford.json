@@ -1,0 +1,2612 @@
+[
+  {
+    "id": 143140139,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Pretty three bedroom mid terrace cottage located in the centre of a sought after village. This property has been completely refurbished since it was acquired in 2017 and offers a cosy characterful home with off street parking and cottage garden. EPC rating D.",
+    "displayAddress": "Victoria Road, Wargrave, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.50084,
+      "longitude": -0.86332
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_00_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_01_0000.jpeg",
+          "caption": "Picture No. 01"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_02_0000.jpeg",
+          "caption": "Picture No. 02"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_03_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_04_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_04_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_05_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_05_0000.jpeg",
+          "caption": "Picture No. 18"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_06_0000.jpeg",
+          "caption": "Picture No. 21"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_07_0000.jpeg",
+          "caption": "Picture No. 03"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_08_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_08_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_09_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_10_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_11_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_11_0000.jpeg",
+          "caption": "Picture No. 19"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_12_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_12_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_13_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_13_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_14_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_14_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_15_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_15_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_16_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_16_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_17_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_17_0000.jpeg",
+          "caption": "Picture No. 20"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_18_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_18_0000.jpeg",
+          "caption": "Picture No. 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_19_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_19_0000.jpeg",
+          "caption": "Picture No. 14"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-05T10:20:18Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": true,
+    "price": {
+      "amount": 730000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3730,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48230,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_43511_0010.jpeg",
+      "contactTelephone": "0118 230 1561",
+      "branchDisplayName": "Davis Tate, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Davis Tate",
+      "branchLandingPageUrl": "/estate-agents/agent/Davis-Tate/Twyford-48230.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_43511_0010_max_100x50.jpeg"
+    },
+    "distance": 1.748,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Village location",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/143140139#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=143140139",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-12-22T15:50:34Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "Featured Property",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced on 05/03/2024",
+    "formattedBranchName": " by Davis Tate, Twyford",
+    "formattedDistance": "1.75 miles"
+  },
+  {
+    "id": 142208831,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 7,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Two bedroom bungalow in a sought after road in Twyford. Offered for sale with no onward chain this detached bungalow offers two bedrooms and approx 17ft reception room, kitchen and family bathroom. The property further boasts driveway parking, garage and private rear garden. EPC rating E.",
+    "displayAddress": "Wessex Gardens, Twyford, Reading, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.471422,
+      "longitude": -0.860232
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_10_0000.jpeg",
+          "caption": "Picture No. 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_09_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_01_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_02_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_03_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_06_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48230/142208831/48230_DTW230113_IMG_07_0000.jpeg",
+          "caption": "Picture No. 09"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/142208831/48230_DTW230113_IMG_10_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T14:20:27Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 450000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3450,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48230,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_43511_0010.jpeg",
+      "contactTelephone": "0118 230 1561",
+      "branchDisplayName": "Davis Tate, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Davis Tate",
+      "branchLandingPageUrl": "/estate-agents/agent/Davis-Tate/Twyford-48230.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_43511_0010_max_100x50.jpeg"
+    },
+    "distance": 0.3132,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "No Chain",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/142208831#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=142208831",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-11-20T17:50:38Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "2 bedroom bungalow for sale",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Davis Tate, Twyford",
+    "formattedDistance": "0.31 miles"
+  },
+  {
+    "id": 142219511,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "NO ONWARD CHAIN! - Offered to the market and in need of modernisation is this two-bedroom detached bungalow with driveway parking and a garage.",
+    "displayAddress": "Wessex Gardens, Twyford, Reading, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.47135,
+      "longitude": -0.860373
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_00_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_01_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_02_0000.jpeg",
+          "caption": "Picture No. 03"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_03_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_04_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_05_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_06_0000.jpeg",
+          "caption": "Picture No. 02"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_07_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_08_0000.jpeg",
+          "caption": "Picture No. 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_09_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6539/142219511/6539_TWY230143_IMG_10_0000.jpeg",
+          "caption": "Picture No. 13"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/142219511/6539_TWY230143_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-07T11:54:10Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 450000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3450,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6539,
+      "brandPlusLogoURI": "/7k/6539/branch_rmchoice_logo_6539_0000.jpeg",
+      "contactTelephone": "0118 230 3206",
+      "branchDisplayName": "Parkers Estate Agents, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Parkers Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Parkers-Estate-Agents/Twyford-6539.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/7k/6539/branch_rmchoice_logo_6539_0000_max_100x50.jpeg"
+    },
+    "distance": 0.3153,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "No Chain",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/142219511#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=142219511",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-11-21T09:06:08Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "2 bedroom bungalow for sale",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Parkers Estate Agents, Twyford",
+    "formattedDistance": "0.32 miles"
+  },
+  {
+    "id": 145447955,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 2,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Woodleys Estate Agents are proud to present this well presented three bedroom link detached house situated on a corner plot located within the popular Woodley Airfield. The property comprises bay fronted lounge, kitchen/dining room, conservatory, downstairs WC, three first floor bedrooms and bath...",
+    "displayAddress": "Constable Close, Woodley, Reading",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.45548,
+      "longitude": -0.87936
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/145447955/7592_103511006725_IMG_00_0000_max_476x317.jpeg",
+          "url": "8k/7592/145447955/7592_103511006725_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/145447955/7592_103511006725_IMG_01_0000_max_476x317.jpeg",
+          "url": "8k/7592/145447955/7592_103511006725_IMG_01_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/145447955/7592_103511006725_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/145447955/7592_103511006725_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Link Detached House",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-06T17:16:06Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 475000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3475,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 7592,
+      "brandPlusLogoURI": "/8k/7592/branch_rmchoice_logo_7592_0000.jpeg",
+      "contactTelephone": "0118 230 2551",
+      "branchDisplayName": "Woodleys Estate Agents, Reading",
+      "branchName": "Reading",
+      "brandTradingName": "Woodleys Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Woodleys-Estate-Agents/Reading-7592.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/8k/7592/branch_rmchoice_logo_7592_0000_max_100x50.jpeg"
+    },
+    "distance": 1.5544,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145447955#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145447955",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-06T17:10:30Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "3 bedroom link detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Woodleys Estate Agents, Reading",
+    "formattedDistance": "1.55 miles"
+  },
+  {
+    "id": 145438235,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 19,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Built in 2016 by Redrow Homes is this impressive and well maintained modern four bedroom detached family home. Offering accommodation across two floors comprising; entrance hall, WC, living room, 20'7 x 12'10 kitchen/diner, four bedrooms with the master benefitting from an ensuite shower and mode...",
+    "displayAddress": "Messenger Road, Woodley, Reading, Berkshire, RG5",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.452678,
+      "longitude": -0.890859
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_00_0000.jpeg",
+          "caption": "Picture No. 24"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_01_0000.jpeg",
+          "caption": "Picture No. 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_02_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_03_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_04_0000.jpeg",
+          "caption": "Picture No. 19"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_05_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_06_0000.jpeg",
+          "caption": "Picture No. 20"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_07_0000.jpeg",
+          "caption": "Picture No. 09"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_08_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_09_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_10_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_11_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_11_0000.jpeg",
+          "caption": "Picture No. 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_12_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_12_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_13_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_13_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_14_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_14_0000.jpeg",
+          "caption": "Picture No. 02"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_15_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_15_0000.jpeg",
+          "caption": "Picture No. 03"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_16_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_16_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_17_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_17_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_18_0000_max_476x317.jpeg",
+          "url": "7k/6443/145438235/6443_WOD230050_IMG_18_0000.jpeg",
+          "caption": "Picture No. 05"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6443/145438235/6443_WOD230050_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-06T15:13:04Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 660000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3660,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6443,
+      "brandPlusLogoURI": "/7k/6443/branch_rmchoice_logo_6443_0000.jpeg",
+      "contactTelephone": "0118 230 0625",
+      "branchDisplayName": "Parkers Estate Agents, Woodley",
+      "branchName": "Woodley",
+      "brandTradingName": "Parkers Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Parkers-Estate-Agents/Woodley-6443.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/7k/6443/branch_rmchoice_logo_6443_0000_max_100x50.jpeg"
+    },
+    "distance": 1.9831,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145438235#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145438235",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-06T15:07:33Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Parkers Estate Agents, Woodley",
+    "formattedDistance": "1.98 miles"
+  },
+  {
+    "id": 143125916,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 28,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Retaining a wealth of character, this beautifully presented five bedroom family home set within a 0.5 acre plot has beautiful countryside views and is ideally placed for Crossrail.",
+    "displayAddress": "Whistley Green, Hurst, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.461398,
+      "longitude": -0.858735
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_00_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_00_0000.jpeg",
+          "caption": "Front Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_01_0000.jpeg",
+          "caption": "Reception Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_02_0000.jpeg",
+          "caption": "Conservatory"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_03_0000.jpeg",
+          "caption": "Rear Gardens"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_04_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_04_0000.jpeg",
+          "caption": "Snug"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_05_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_05_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_06_0000.jpeg",
+          "caption": "Breakfast Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_07_0000.jpeg",
+          "caption": "Breakfast Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_08_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_08_0000.jpeg",
+          "caption": "Family Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_09_0000.jpeg",
+          "caption": "Principle Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_10_0000.jpeg",
+          "caption": "Principle En-Suite"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_11_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_11_0000.jpeg",
+          "caption": "Bedroom 4"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_12_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_12_0000.jpeg",
+          "caption": "Bedroom 4 Mezzanine"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_13_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_13_0000.jpeg",
+          "caption": "Bedroom Two"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_14_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_14_0000.jpeg",
+          "caption": "Bedroom 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_15_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_15_0000.jpeg",
+          "caption": "Bedroom 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_16_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_16_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_17_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_17_0000.jpeg",
+          "caption": "Picture No. 73"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_18_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_18_0000.jpeg",
+          "caption": "Picture No. 74"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_19_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_19_0000.jpeg",
+          "caption": "Decking &amp; Patio"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_20_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_20_0000.jpeg",
+          "caption": "Rear Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_21_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_21_0000.jpeg",
+          "caption": "Rear Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_22_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_22_0000.jpeg",
+          "caption": "Front Porch"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_23_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_23_0000.jpeg",
+          "caption": "Front Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_24_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_24_0000.jpeg",
+          "caption": "Rear Views"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_25_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_25_0000.jpeg",
+          "caption": "Double Garage"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_26_0001_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_26_0001.jpeg",
+          "caption": "Picture No. 78"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_27_0000_max_476x317.jpeg",
+          "url": "49k/48614/143125916/48614_HES230186_IMG_27_0000.jpeg",
+          "caption": "Picture No. 77"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/143125916/48614_HES230186_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-05T11:54:28Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1625000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,625,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48614,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_14060_0001.jpeg",
+      "contactTelephone": "01491 521671",
+      "branchDisplayName": "Savills, Henley-On-Thames",
+      "branchName": "Henley-On-Thames",
+      "brandTradingName": "Savills",
+      "branchLandingPageUrl": "/estate-agents/agent/Savills/Henley-On-Thames-48614.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_14060_0001_max_100x50.jpeg"
+    },
+    "distance": 0.9979,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Countryside Views",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "2,911 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/143125916#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=143125916",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-12-22T11:12:05Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced on 05/03/2024",
+    "formattedBranchName": " by Savills, Henley-On-Thames",
+    "formattedDistance": "1.00 miles"
+  },
+  {
+    "id": 143140139,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Pretty three bedroom mid terrace cottage located in the centre of a sought after village. This property has been completely refurbished since it was acquired in 2017 and offers a cosy characterful home with off street parking and cottage garden. EPC rating D.",
+    "displayAddress": "Victoria Road, Wargrave, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.50084,
+      "longitude": -0.86332
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_00_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_01_0000.jpeg",
+          "caption": "Picture No. 01"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_02_0000.jpeg",
+          "caption": "Picture No. 02"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_03_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_04_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_04_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_05_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_05_0000.jpeg",
+          "caption": "Picture No. 18"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_06_0000.jpeg",
+          "caption": "Picture No. 21"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_07_0000.jpeg",
+          "caption": "Picture No. 03"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_08_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_08_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_09_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_10_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_11_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_11_0000.jpeg",
+          "caption": "Picture No. 19"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_12_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_12_0000.jpeg",
+          "caption": "Picture No. 05"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_13_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_13_0000.jpeg",
+          "caption": "Picture No. 06"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_14_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_14_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_15_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_15_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_16_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_16_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_17_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_17_0000.jpeg",
+          "caption": "Picture No. 20"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_18_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_18_0000.jpeg",
+          "caption": "Picture No. 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_19_0000_max_476x317.jpeg",
+          "url": "49k/48230/143140139/48230_DTW180114_IMG_19_0000.jpeg",
+          "caption": "Picture No. 14"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48230/143140139/48230_DTW180114_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-05T10:20:18Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 730000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3730,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48230,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_43511_0010.jpeg",
+      "contactTelephone": "0118 230 1561",
+      "branchDisplayName": "Davis Tate, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Davis Tate",
+      "branchLandingPageUrl": "/estate-agents/agent/Davis-Tate/Twyford-48230.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_43511_0010_max_100x50.jpeg"
+    },
+    "distance": 1.748,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Village location",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/143140139#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=143140139",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-12-22T15:50:34Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced on 05/03/2024",
+    "formattedBranchName": " by Davis Tate, Twyford",
+    "formattedDistance": "1.75 miles"
+  },
+  {
+    "id": 145397450,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 22,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Grapevine Estate Agents offer to the market a modern two bedroom terraced property situated on a private road in Ruscombe",
+    "displayAddress": "Garraway Close, Ruscombe, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.48353,
+      "longitude": -0.85722
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_00_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_01_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_02_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_03_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_04_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_05_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_06_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_07_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_08_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_09_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_10_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_11_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_12_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_13_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_14_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_15_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_16_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_17_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_18_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_19_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_19_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_20_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_20_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_21_0000_max_476x317.jpeg",
+          "url": "167k/166517/145397450/166517_RX278622_IMG_21_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145397450/166517_RX278622_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-04T16:07:06Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 465000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3465,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 166517,
+      "brandPlusLogoURI": "/167k/166517/branch_rmchoice_logo_166517_0008.png",
+      "contactTelephone": "0118 230 8390",
+      "branchDisplayName": "Grapevine Estate Agents, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Grapevine Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Grapevine-Estate-Agents/Twyford-166517.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/167k/166517/branch_rmchoice_logo_166517_0008_max_100x50.png"
+    },
+    "distance": 0.6082,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145397450#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145397450",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-04T16:01:19Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "2 bedroom terraced house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 04/03/2024",
+    "formattedBranchName": " by Grapevine Estate Agents, Twyford",
+    "formattedDistance": "0.61 miles"
+  },
+  {
+    "id": 145339733,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 23,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Located in the popular village of Ruscombe, Penns Garden is a wonderful five bedroom detached family home set within a 2.86 acre plot.",
+    "displayAddress": "Stanlake Lane, Ruscombe, Reading, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.479135,
+      "longitude": -0.854692
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_00_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_00_0000.jpeg",
+          "caption": "Aerial"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_01_0000.jpeg",
+          "caption": "Reception Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_02_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_03_0000.jpeg",
+          "caption": "Conservatory"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_04_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_04_0000.jpeg",
+          "caption": "Conservatory Doors"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_05_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_05_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_06_0000.jpeg",
+          "caption": "Principal Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_07_0000.jpeg",
+          "caption": "En-Suite"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_08_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_08_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_09_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_10_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_11_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_11_0000.jpeg",
+          "caption": "Entrance"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_12_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_12_0000.jpeg",
+          "caption": "Entrance"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_13_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_13_0000.jpeg",
+          "caption": "Front Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_14_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_14_0000.jpeg",
+          "caption": "Front Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_15_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_15_0000.jpeg",
+          "caption": "Front Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_16_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_16_0000.jpeg",
+          "caption": "Garage"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_17_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_17_0000.jpeg",
+          "caption": "Garage"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_18_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_18_0000.jpeg",
+          "caption": "Rear Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_19_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_19_0000.jpeg",
+          "caption": "Rear Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_20_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_20_0000.jpeg",
+          "caption": "Gardens"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_21_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_21_0000.jpeg",
+          "caption": "Gardens"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_22_0000_max_476x317.jpeg",
+          "url": "49k/48614/145339733/48614_HES230078_IMG_22_0000.jpeg",
+          "caption": "Gardens"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48614/145339733/48614_HES230078_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-01T18:30:07Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1950000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,950,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48614,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_14060_0001.jpeg",
+      "contactTelephone": "01491 521671",
+      "branchDisplayName": "Savills, Henley-On-Thames",
+      "branchName": "Henley-On-Thames",
+      "brandTradingName": "Savills",
+      "branchLandingPageUrl": "/estate-agents/agent/Savills/Henley-On-Thames-48614.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_14060_0001_max_100x50.jpeg"
+    },
+    "distance": 0.4421,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Generous Garden",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145339733#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145339733",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-01T18:24:29Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 01/03/2024",
+    "formattedBranchName": " by Savills, Henley-On-Thames",
+    "formattedDistance": "0.44 miles"
+  },
+  {
+    "id": 145320953,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 23,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Introducing a charming 4-bedroom detached family home nestled in the heart of Twyford, offering stunning views that capture the essence of this picturesque location",
+    "displayAddress": "Longfield Road, Twyford, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.483738,
+      "longitude": -0.867671
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_00_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_01_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_02_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_03_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_04_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_05_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_06_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_07_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_08_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_09_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_10_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_11_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_12_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_13_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_14_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_15_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_16_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_17_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_18_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_19_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_19_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_20_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_20_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_21_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_21_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_22_0000_max_476x317.jpeg",
+          "url": "167k/166517/145320953/166517_RX362024_IMG_22_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/167k/166517/145320953/166517_RX362024_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-01T15:04:04Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 800000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3800,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 166517,
+      "brandPlusLogoURI": "/167k/166517/branch_rmchoice_logo_166517_0008.png",
+      "contactTelephone": "0118 230 8390",
+      "branchDisplayName": "Grapevine Estate Agents, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Grapevine Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Grapevine-Estate-Agents/Twyford-166517.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/167k/166517/branch_rmchoice_logo_166517_0008_max_100x50.png"
+    },
+    "distance": 0.5978,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145320953#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145320953",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-01T14:58:11Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 01/03/2024",
+    "formattedBranchName": " by Grapevine Estate Agents, Twyford",
+    "formattedDistance": "0.60 miles"
+  },
+  {
+    "id": 145319864,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 16,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Romans are delighted to bring to the market this well presented 3-bedroom split level maisonette set in lovely village of Hare Hatch with good access to local amenities including schools and Twyford mainline station with Crossrail. The property is entered via its own private entrance w...",
+    "displayAddress": "Wardstone House, Bath Road, Hare Hatch",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.49471,
+      "longitude": -0.84455
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_00_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_00_0000.jpeg",
+          "caption": "1093118 (1).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_01_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_01_0000.jpeg",
+          "caption": "1093118 (3).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_02_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_02_0000.jpeg",
+          "caption": "1093118 (4).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_03_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_03_0000.jpeg",
+          "caption": "1093118 (9).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_04_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_04_0000.jpeg",
+          "caption": "1093118 (6).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_05_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_05_0000.jpeg",
+          "caption": "1093118 (2).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_06_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_06_0000.jpeg",
+          "caption": "1093118 (5).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_07_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_07_0000.jpeg",
+          "caption": "1093118 (7).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_08_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_08_0000.jpeg",
+          "caption": "1093118 (14).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_09_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_09_0000.jpeg",
+          "caption": "1093118 (11).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_10_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_10_0000.jpeg",
+          "caption": "1093118 (12).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_11_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_11_0000.jpeg",
+          "caption": "1093118 (8).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_12_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_12_0000.jpeg",
+          "caption": "1093118 (15).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_13_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_13_0000.jpeg",
+          "caption": "1093118 (16).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_14_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_14_0000.jpeg",
+          "caption": "1093118 (10).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_15_0000_max_476x317.jpeg",
+          "url": "47k/46488/145319864/46488_HUB237300_IMG_15_0000.jpeg",
+          "caption": "1093118 (17).jpg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145319864/46488_HUB237300_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Maisonette",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-01T14:51:06Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 350000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3350,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 46488,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_92144_0000.jpeg",
+      "contactTelephone": "0118 230 0943",
+      "branchDisplayName": "Romans, Woodley",
+      "branchName": "Woodley",
+      "brandTradingName": "Romans",
+      "branchLandingPageUrl": "/estate-agents/agent/Romans/Woodley-46488.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_92144_0000_max_100x50.jpeg"
+    },
+    "distance": 1.5493,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Long lease",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145319864#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145319864",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-01T14:45:36Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "3 bedroom maisonette for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 01/03/2024",
+    "formattedBranchName": " by Romans, Woodley",
+    "formattedDistance": "1.55 miles"
+  },
+  {
+    "id": 145313114,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Being sold with no onward chain is this well presented 3/4 bedroom semi-detached home located on a popular road in North Woodley and offers flexible living accommodation. Upon entering the property there is a good size entrance hall leading through to the living room with French doors...",
+    "displayAddress": "Telford Crescent, Woodley, Reading",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.460166,
+      "longitude": -0.897315
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_00_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_00_0000.jpeg",
+          "caption": "1090454 (1).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_01_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_01_0000.jpeg",
+          "caption": "1090454 (2).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_02_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_02_0000.jpeg",
+          "caption": "1090454 (17).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_03_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_03_0000.jpeg",
+          "caption": "1090454 (9).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_04_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_04_0000.jpeg",
+          "caption": "1090454 (22).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_05_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_05_0000.jpeg",
+          "caption": "1090454 (3).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_06_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_06_0000.jpeg",
+          "caption": "1090454 (19).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_07_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_07_0000.jpeg",
+          "caption": "1090454 (5).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_08_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_08_0000.jpeg",
+          "caption": "1090454 (4).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_09_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_09_0000.jpeg",
+          "caption": "1090454 (11).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_10_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_10_0000.jpeg",
+          "caption": "1090454 (7).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_11_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_11_0000.jpeg",
+          "caption": "1090454 (6).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_12_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_12_0000.jpeg",
+          "caption": "1090454 (12).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_13_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_13_0000.jpeg",
+          "caption": "1090454 (8).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_14_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_14_0000.jpeg",
+          "caption": "1090454 (13).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_15_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_15_0000.jpeg",
+          "caption": "1090454 (16).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_16_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_16_0000.jpeg",
+          "caption": "1090454 (18).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_17_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_17_0000.jpeg",
+          "caption": "1090454 (10).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_18_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_18_0000.jpeg",
+          "caption": "1090454 (23).jpg"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_19_0000_max_476x317.jpeg",
+          "url": "47k/46488/145313114/46488_WOD230036_IMG_19_0000.jpeg",
+          "caption": "Picture No. 29"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/47k/46488/145313114/46488_WOD230036_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-01T13:12:05Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 475000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3475,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 46488,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_92144_0000.jpeg",
+      "contactTelephone": "0118 230 0943",
+      "branchDisplayName": "Romans, Woodley",
+      "branchName": "Woodley",
+      "brandTradingName": "Romans",
+      "branchLandingPageUrl": "/estate-agents/agent/Romans/Woodley-46488.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_92144_0000_max_100x50.jpeg"
+    },
+    "distance": 1.8183,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "No Chain",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145313114#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145313114",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-01T13:06:07Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 01/03/2024",
+    "formattedBranchName": " by Romans, Woodley",
+    "formattedDistance": "1.82 miles"
+  },
+  {
+    "id": 143703926,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Offered to the market with no onward chain is this very well presented Victorian end of terrace home which is situated in a sought after village location. The property comprises of lounge, dining room, kitchen and downstairs shower room and to the first floor there are two bedrooms with an en-sui...",
+    "displayAddress": "Caversham Villas The Street, Hurst, Reading",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.45874,
+      "longitude": -0.85323
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_00_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_01_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_02_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_03_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_04_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_05_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_06_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_07_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_09_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_10_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_11_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_12_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_13_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_14_0000_max_476x317.jpeg",
+          "url": "8k/7592/143703926/7592_103511006650_IMG_14_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7592/143703926/7592_103511006650_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "End of Terrace",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-01T12:42:03Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 435000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3435,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 7592,
+      "brandPlusLogoURI": "/8k/7592/branch_rmchoice_logo_7592_0000.jpeg",
+      "contactTelephone": "0118 230 2551",
+      "branchDisplayName": "Woodleys Estate Agents, Reading",
+      "branchName": "Reading",
+      "brandTradingName": "Woodleys Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Woodleys-Estate-Agents/Reading-7592.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/8k/7592/branch_rmchoice_logo_7592_0000_max_100x50.jpeg"
+    },
+    "distance": 1.2399,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/143703926#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=143703926",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-01-16T15:53:41Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "2 bedroom end of terrace house for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced on 01/03/2024",
+    "formattedBranchName": " by Woodleys Estate Agents, Reading",
+    "formattedDistance": "1.24 miles"
+  },
+  {
+    "id": 145275944,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 31,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "A beautifully maintained bungalow in Twyford Village, boasting spacious reception rooms and a picturesque garden with countryside views, providing a peaceful retreat with convenient access to local amenities and transport links.",
+    "displayAddress": "Malvern Way, Twyford, Berkshire, RG10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.488916,
+      "longitude": -0.864381
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_00_0000.jpeg",
+          "caption": "Picture No. 49"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_02_0000.jpeg",
+          "caption": "Picture No. 04"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_03_0000.jpeg",
+          "caption": "Picture No. 25"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_04_0000.jpeg",
+          "caption": "Picture No. 26"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_05_0000.jpeg",
+          "caption": "Picture No. 29"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_06_0000.jpeg",
+          "caption": "Picture No. 27"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_07_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_08_0000.jpeg",
+          "caption": "Picture No. 19"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_09_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_10_0000.jpeg",
+          "caption": "Picture No. 23"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_11_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_11_0000.jpeg",
+          "caption": "Picture No. 24"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_12_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_12_0000.jpeg",
+          "caption": "Picture No. 08"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_13_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_13_0000.jpeg",
+          "caption": "Picture No. 09"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_14_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_14_0000.jpeg",
+          "caption": "Picture No. 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_15_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_15_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_16_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_16_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_17_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_17_0000.jpeg",
+          "caption": "Picture No. 21"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_18_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_18_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_19_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_19_0000.jpeg",
+          "caption": "Picture No. 01"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_01_0000.jpeg",
+          "caption": "Picture No. 41"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_20_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_20_0000.jpeg",
+          "caption": "Picture No. 43"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_21_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_21_0000.jpeg",
+          "caption": "Picture No. 40"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_22_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_22_0000.jpeg",
+          "caption": "Picture No. 39"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_23_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_23_0000.jpeg",
+          "caption": "Picture No. 42"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_24_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_24_0000.jpeg",
+          "caption": "Picture No. 46"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_25_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_25_0000.jpeg",
+          "caption": "Picture No. 54"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_26_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_26_0000.jpeg",
+          "caption": "Picture No. 44"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_27_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_27_0000.jpeg",
+          "caption": "Picture No. 30"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_28_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_28_0000.jpeg",
+          "caption": "Picture No. 53"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_29_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_29_0000.jpeg",
+          "caption": "Picture No. 52"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_30_0000_max_476x317.jpeg",
+          "url": "7k/6539/145275944/6539_TWY210048_IMG_30_0000.jpeg",
+          "caption": "Picture No. 48"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6539/145275944/6539_TWY210048_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-02-29T17:05:02Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 750000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3750,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6539,
+      "brandPlusLogoURI": "/7k/6539/branch_rmchoice_logo_6539_0000.jpeg",
+      "contactTelephone": "0118 230 3206",
+      "branchDisplayName": "Parkers Estate Agents, Twyford",
+      "branchName": "Twyford",
+      "brandTradingName": "Parkers Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Parkers-Estate-Agents/Twyford-6539.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/7k/6539/branch_rmchoice_logo_6539_0000_max_100x50.jpeg"
+    },
+    "distance": 0.925,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145275944#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145275944",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-02-29T16:59:04Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "propertyTypeFullDescription": "3 bedroom bungalow for sale",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 29/02/2024",
+    "formattedBranchName": " by Parkers Estate Agents, Twyford",
+    "formattedDistance": "0.93 miles"
+  }
+]

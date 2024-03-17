@@ -1,3 +1,4 @@
 .purple
 .env
 .vscode
+__pycache__

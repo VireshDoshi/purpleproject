@@ -1,0 +1,347 @@
+[
+  {
+    "id": 145817672,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 2,
+    "summary": "An utterly charming, 17th century Grade II Listed cottage, set within beautiful gardens with a separate timber home office and garage. This chocolate box cottage is ideally situated in a quiet position on a private road, providing an idyllic retreat with its abundance of period features. Ample d...",
+    "displayAddress": "Britwell Gardens, Burnham, Slough, SL1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.535027,
+      "longitude": -0.650483
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_00_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_01_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_02_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_03_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_04_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_05_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_06_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_07_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_08_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_09_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_10_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_11_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_12_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_13_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_14_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_15_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_16_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_17_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_18_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_19_0000_max_476x317.jpeg",
+          "url": "29k/28674/145817672/28674_BCN012441076_IMG_19_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/29k/28674/145817672/28674_BCN012441076_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-16T15:37:03Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1250000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,250,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 28674,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_16112_0017.png",
+      "contactTelephone": "01494 341329",
+      "branchDisplayName": "Knight Frank, Beaconsfield",
+      "branchName": "Beaconsfield",
+      "brandTradingName": "Knight Frank",
+      "branchLandingPageUrl": "/estate-agents/agent/Knight-Frank/Beaconsfield-28674.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_16112_0017_max_100x50.png"
+    },
+    "distance": 1.5265,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145817672#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145817672",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-16T15:31:55Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Knight Frank, Beaconsfield",
+    "formattedDistance": "1.53 miles",
+    "propertyTypeFullDescription": "3 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 141840857,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Offered to the market with the added benefit of having no further chain and found in this popular location, just a short distance from the village itself is this charming three bedroom semi detached period home.",
+    "displayAddress": "Almond Road, Burnham, SL1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.536777,
+      "longitude": -0.659937
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_00_0000.jpeg",
+          "caption": "External"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_01_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_02_0000.jpeg",
+          "caption": "Living Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_03_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_04_0000.jpeg",
+          "caption": "Bedroom 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_05_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_06_0000.jpeg",
+          "caption": "Bedroom 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_07_0000.jpeg",
+          "caption": "Bedroom 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_08_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_09_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6900/141840857/6900_BUR230191_IMG_10_0000.jpeg",
+          "caption": "Kitchen"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/141840857/6900_BUR230191_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-15T23:48:20Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 415000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3415,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6900,
+      "brandPlusLogoURI": "/company/clogo_2202_0000.gif",
+      "contactTelephone": "01628 965776",
+      "branchDisplayName": "The Frost Partnership, Burnham",
+      "branchName": "Burnham",
+      "brandTradingName": "The Frost Partnership",
+      "branchLandingPageUrl": "/estate-agents/agent/The-Frost-Partnership/Burnham-6900.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_2202_0000_max_100x50.gif"
+    },
+    "distance": 1.2732,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Premium Listing",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/141840857#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=141840857",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-11-08T16:53:13Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced yesterday",
+    "formattedBranchName": " by The Frost Partnership, Burnham",
+    "formattedDistance": "1.27 miles",
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

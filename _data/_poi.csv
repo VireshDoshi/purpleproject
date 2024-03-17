@@ -1,0 +1,16 @@
+station,poi,Latitude,Longitude,Link, Brand
+Maidenhead,Braywick Leisure centre, 51.51030436891148, -0.7133238624845909, www.leisurefocus.org.uk/our-centres/braywick-leisure-centre/, No
+Maidenhead,mcdonalds, 51.522885733119715, -0.7212925719583863, www.mcdonalds.co.uk, Yes
+Maidenhead,Library, 51.52236953478425, -0.7174334222240222, www.rbwm.co.uk, No
+Maidenhead,Kidwells park, 51.524545721452064, -0.72197171985833, www.rbwm.co.uk, Yes
+Maidenhead,Nandos, 51.522795762692716, -0.6783561474861883, www.nandos.co.uk, Yes
+Maidenhead,Heathrow Airport, 51.47147469924427, -0.4900636838143857, www.heathrow.co.uk, No
+Maidenhead,Waitrose, 51.5232937790332, -0.7141816246067482, www.waitrose.co.uk, Yes
+Maidenhead,Sainsburys, 51.520372461442506, -0.6685922489884956, www.sainsburys.co.uk, Yes
+Taplow,Asda, 51.50797791472881, -0.628286707842935, www.asda.co.uk, Yes
+Taplow,Starbucks, 51.52038412521332, -0.6689019309901432, www.starbucks.co.uk, Yes
+Maidenhead,KFC, 51.52290431211005, -0.7161606480779783, www.kfc.com, Yes
+Maidenhead,Dominos, 51.52405248368463, -0.7090313364837083, www.dominos.co.uk, Yes
+all, heathrow, 51.47147469924427, -0.4900636838143857, www.heathrow.com, No
+all, ikea, 51.44564897233363, -1.0501797784642344, www.ikea.com, Yes
+Taplow,mcdonalds, 51.52277190974573, -0.6779864688258121, www.mcdonalds.co.uk, Yes

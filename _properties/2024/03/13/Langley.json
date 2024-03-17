@@ -1,0 +1,422 @@
+[
+  {
+    "id": 145697105,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 6,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "The property is in need of updating throughout...... This three bedroom property offers a superb opportunity to create a fantastic family home. The property is within walking distance of various shops and amenities including an excellent choice of local schools with Junction 6 of the M4 a shor...",
+    "displayAddress": "Canada Road, Slough",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.510197,
+      "longitude": -0.580337
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_00_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_00_0000.jpeg",
+          "caption": "Photo 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_01_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_01_0000.jpeg",
+          "caption": "Photo 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_02_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_02_0000.jpeg",
+          "caption": "Photo 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_03_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_03_0000.jpeg",
+          "caption": "Photo 4"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_04_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_04_0000.jpeg",
+          "caption": "Photo 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_05_0000_max_476x317.jpeg",
+          "url": "26k/25200/145697105/25200_12316647_IMG_05_0000.jpeg",
+          "caption": "Photo 6"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145697105/25200_12316647_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-13T15:05:08Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 425000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3425,000",
+          "displayPriceQualifier": "Offers in Region of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 25200,
+      "brandPlusLogoURI": "/26k/25200/branch_rmchoice_logo_25200_0001.png",
+      "contactTelephone": "01753 969808",
+      "branchDisplayName": "Langhams Estate Agents, Slough",
+      "branchName": "Slough",
+      "brandTradingName": "Langhams Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Langhams-Estate-Agents/Slough-25200.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/26k/25200/branch_rmchoice_logo_25200_0001_max_100x50.png"
+    },
+    "distance": 1.6592,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Freehold",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145697105#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145697105",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-13T15:00:01Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Langhams Estate Agents, Slough",
+    "formattedDistance": "1.66 miles",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 111993863,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 8,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "A family home with three first floor bedrooms and ta bathroom together with a fourth bedroom and a shower room on the ground floor. There is also a lounge which opens to the dining room and then the kitchen and a level and private rear garden.",
+    "displayAddress": "Minster Way, Langley, Berkshire, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.5053,
+      "longitude": -0.55135
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_08_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_06_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_06_0000.jpeg",
+          "caption": "Rear garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_00_0002_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_00_0002.jpeg",
+          "caption": "Living room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_01_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_01_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_03_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_03_0000.jpeg",
+          "caption": "Shower room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_02_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_02_0000.jpeg",
+          "caption": "Bedroom One"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_05_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_05_0000.jpeg",
+          "caption": "Bathroom "
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_07_0000_max_476x317.jpeg",
+          "url": "151k/150125/111993863/150125_NMMW0821_IMG_07_0000.jpeg",
+          "caption": "View"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_08_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/151k/150125/111993863/150125_NMMW0821_IMG_08_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-13T14:07:24Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 534000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3534,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 150125,
+      "brandPlusLogoURI": "/151k/150125/branch_rmchoice_logo_150125_0000.png",
+      "contactTelephone": "01753 886488",
+      "branchDisplayName": "Nicholas Moss, Gerrards Cross",
+      "branchName": "Gerrards Cross",
+      "brandTradingName": "Nicholas Moss",
+      "branchLandingPageUrl": "/estate-agents/agent/Nicholas-Moss/Gerrards-Cross-150125.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/151k/150125/branch_rmchoice_logo_150125_0000_max_100x50.png"
+    },
+    "distance": 0.4417,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Premium Listing",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/111993863#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=111993863",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2021-08-23T09:44:23Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Nicholas Moss, Gerrards Cross",
+    "formattedDistance": "0.44 miles",
+    "propertyTypeFullDescription": "4 bedroom semi-detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145687403,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 13,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Beautifully presented detached house situated in a popular residential area. The ground floor comprises entrance hall leading to two reception rooms, modern fitted kitchen with door to integral garage and leading to utility room and downstairs cloakroom. The first floor landing leads to four bedr...",
+    "displayAddress": "Maplin Park, Slough",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.505161,
+      "longitude": -0.532843
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_00_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_00_0000.jpeg",
+          "caption": "Photo 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_01_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_01_0000.jpeg",
+          "caption": "Photo 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_02_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_02_0000.jpeg",
+          "caption": "Photo 8"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_03_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_03_0000.jpeg",
+          "caption": "Photo 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_04_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_04_0000.jpeg",
+          "caption": "Photo 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_05_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_05_0000.jpeg",
+          "caption": "Photo 6"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_06_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_06_0000.jpeg",
+          "caption": "Photo 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_07_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_07_0000.jpeg",
+          "caption": "Photo 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_08_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_08_0000.jpeg",
+          "caption": "Photo 4"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_09_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_09_0000.jpeg",
+          "caption": "Photo 7"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_10_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_10_0000.jpeg",
+          "caption": "Photo 9"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_11_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_11_0000.jpeg",
+          "caption": "Photo 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_12_0000_max_476x317.jpeg",
+          "url": "26k/25200/145687403/25200_12309282_IMG_12_0000.jpeg",
+          "caption": "Photo 13"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/26k/25200/145687403/25200_12309282_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-13T12:39:05Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 700000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3700,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 25200,
+      "brandPlusLogoURI": "/26k/25200/branch_rmchoice_logo_25200_0001.png",
+      "contactTelephone": "01753 969808",
+      "branchDisplayName": "Langhams Estate Agents, Slough",
+      "branchName": "Slough",
+      "brandTradingName": "Langhams Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Langhams-Estate-Agents/Slough-25200.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/26k/25200/branch_rmchoice_logo_25200_0001_max_100x50.png"
+    },
+    "distance": 0.4422,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Star Buy",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145687403#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145687403",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-13T12:33:25Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Langhams Estate Agents, Slough",
+    "formattedDistance": "0.44 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

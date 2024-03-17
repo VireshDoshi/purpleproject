@@ -4,10 +4,36 @@ import haversine as hs
 import os
 from geopy.geocoders import Nominatim
 import requests
+import glob
+from datetime import date
 
 ROUTE_DIRECTIONS_KEY = os.getenv('ROUTE_DIRECTIONS_KEY')
 ROUTE_DIRECTIONS_HOST = os.getenv('ROUTE_DIRECTIONS_HOST')
 
+
+def get_todays_date() -> str:
+    return f'{date.today():%Y/%m/%d}'
+
+
+def get_latest_properties_folder_list() -> list:
+    items = glob.iglob('./purpleline/data/properties/202[0-9]/[0-9][0-9]/[0-9][0-9]',
+                       recursive=True)
+    folderlist = []
+    reverse_folders_full = sorted(items, reverse=True)
+    for folder in reverse_folders_full:
+        split_latest_folder = folder.split("/")
+        latest_folder = split_latest_folder[-3:]
+        folderlist.append(latest_folder[0] + '/' + latest_folder[1] + '/' + latest_folder[2])
+    return folderlist
+
+def get_latest_properties_folder(directory):
+    # items = os.listdir(directory)
+    items = glob.iglob('./purpleline/data/properties/202[0-9]/[0-9][0-9]/[0-9][0-9]', recursive=True)
+
+    latest_folders = sorted(items, reverse=True)
+    split_latest_folder = latest_folders[0].split("/")
+    latest_folder = split_latest_folder[-3:]
+    return latest_folder[0] + '/' + latest_folder[1] + '/' + latest_folder[2]
 
 def get_lat_long_from_address(address):
     locator = Nominatim(user_agent='myGeocoder')
@@ -72,8 +98,14 @@ def main():
     # lat,long = get_lat_long_from_address(address)
     # print(f'lat={lat}, long={long}')
 
-    response = get_directions_response(51.518667426954124,-0.7226749105747798, 51.473419, -0.491683)
-    print(response.raw)
+    # response = get_directions_response(51.518667426954124,-0.7226749105747798, 51.473419, -0.491683)
+    # print(response.raw)
+
+    folder_list = get_latest_properties_folder_list()
+    print(folder_list)
+
+    today = get_todays_date()
+
 
 
 if __name__ == "__main__":

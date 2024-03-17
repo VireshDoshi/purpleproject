@@ -1,0 +1,287 @@
+[
+  {
+    "id": 145813463,
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "numberOfImages": 38,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "*****LARGE DETACHED MANOR HOUSE***** VIEWINGS - Strictly by appointment with Homesearch. LOCAL AUTHORITY - South Bucks District Council Council Tax Band : H EPC: E TENURE - Freehold with vacant possession",
+    "displayAddress": "Fir Tree Avenue, Stoke Poges",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.53099,
+      "longitude": -0.59292
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_00_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_00_0000.jpeg",
+          "caption": "Exterior"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_01_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_01_0000.jpeg",
+          "caption": "Foyer"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_02_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_02_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_03_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_04_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_04_0000.jpeg",
+          "caption": "Reception"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_05_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_05_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_06_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_06_0000.jpeg",
+          "caption": "Foyer"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_07_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_07_0000.jpeg",
+          "caption": "Foyer"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_08_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_08_0000.jpeg",
+          "caption": "First Floor Seating Area"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_09_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_09_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_10_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_10_0000.jpeg",
+          "caption": "Staircase"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_11_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_11_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_12_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_12_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_13_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_13_0000.jpeg",
+          "caption": "Reception"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_14_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_14_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_15_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_15_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_16_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_16_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_17_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_17_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_18_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_18_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_19_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_19_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_20_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_20_0000.jpeg",
+          "caption": "Architraves"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_21_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_21_0000.jpeg",
+          "caption": "Architraves"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_22_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_22_0000.jpeg",
+          "caption": "Fire place"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_23_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_23_0000.jpeg",
+          "caption": "Hall"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_24_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_24_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_25_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_25_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_26_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_26_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_27_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_27_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_28_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_28_0000.jpeg",
+          "caption": "Pantry"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_29_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_29_0000.jpeg",
+          "caption": "Reception"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_30_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_30_0000.jpeg",
+          "caption": "Staircase"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_31_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_31_0000.jpeg",
+          "caption": "Laundry room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_32_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_32_0000.jpeg",
+          "caption": "Front Entrance"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_33_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_33_0000.jpeg",
+          "caption": "Cloakroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_34_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_34_0000.jpeg",
+          "caption": "Laundry room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_35_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_35_0000.jpeg",
+          "caption": "Cloakroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_36_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_36_0000.jpeg",
+          "caption": "Courtyard"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_37_0000_max_476x317.jpeg",
+          "url": "127k/126355/145813463/126355_2843_IMG_37_0000.jpeg",
+          "caption": "Reception"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/127k/126355/145813463/126355_2843_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-16T12:04:02Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 2750000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,750,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 126355,
+      "brandPlusLogoURI": "/127k/126355/branch_rmchoice_logo_126355_0003.jpeg",
+      "contactTelephone": "020 3908 1006",
+      "branchDisplayName": "Homesearch Ltd, Ealing",
+      "branchName": "Ealing",
+      "brandTradingName": "Homesearch Ltd",
+      "branchLandingPageUrl": "/estate-agents/agent/Homesearch-Ltd/Ealing-126355.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/127k/126355/branch_rmchoice_logo_126355_0003_max_100x50.jpeg"
+    },
+    "distance": 1.3078,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145813463#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145813463",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-16T11:58:20Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Homesearch Ltd, Ealing",
+    "formattedDistance": "1.31 miles",
+    "propertyTypeFullDescription": "6 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

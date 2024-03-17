@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 139043264,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 12,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Nestled within a sought-after neighbourhood in Maidenhead, Bray Court presents an opportunity to own a splendid four-bedroom detached property that effortlessly blends contemporary comfort with timeless charm. Situated on a generous plot, this residence offers a harmonious balance of ...",
+    "displayAddress": "Bray Court, Maidenhead, Berkshire, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.499407,
+      "longitude": -0.701401
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_12_0000.jpeg",
+          "caption": "Picture No. 26"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_01_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_01_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_13_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_13_0000.jpeg",
+          "caption": "Picture No. 24"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_14_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_14_0000.jpeg",
+          "caption": "Picture No. 25"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_04_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_04_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_05_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_05_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_06_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_06_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_07_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_07_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_08_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_08_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_09_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_09_0000.jpeg",
+          "caption": "Picture No. 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_10_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_10_0000.jpeg",
+          "caption": "Picture No. 23"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_11_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_11_0000.jpeg",
+          "caption": "Picture No. 09"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-13T09:57:06Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": true,
+    "price": {
+      "amount": 650000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3650,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 56124,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_3261_0009.jpeg",
+      "contactTelephone": "01628 969868",
+      "branchDisplayName": "Prospect Estate Agency, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Prospect Estate Agency",
+      "branchLandingPageUrl": "/estate-agents/agent/Prospect-Estate-Agency/Maidenhead-56124.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_3261_0009_max_100x50.jpeg"
+    },
+    "distance": 1.6441,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/139043264#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=139043264",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-08-24T12:03:13Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "Featured Property",
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Prospect Estate Agency, Maidenhead",
+    "formattedDistance": "1.64 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 144345464,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 16,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "*NO CHAIN* A stunning detached family home in a desirable cul-de-sac boasting over 2000sq ft of living accommodation.",
+    "displayAddress": "Barley Mead, Maidenhead, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.513172,
+      "longitude": -0.761743
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_00_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_00_0000.jpeg",
+          "caption": "Front"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_01_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_01_0000.jpeg",
+          "caption": "Reception room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_02_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_02_0000.jpeg",
+          "caption": "Hall"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_03_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_03_0000.jpeg",
+          "caption": "Open plan"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_04_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_04_0000.jpeg",
+          "caption": "Open plan"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_05_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_05_0000.jpeg",
+          "caption": "Conservatory"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_06_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_06_0000.jpeg",
+          "caption": "Dining room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_07_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_07_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_08_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_08_0000.jpeg",
+          "caption": "En-suite"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_09_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_09_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_10_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_10_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_11_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_11_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_12_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_12_0000.jpeg",
+          "caption": "Study"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_13_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_13_0000.jpeg",
+          "caption": "En-suite"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_14_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_14_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_15_0000_max_476x317.jpeg",
+          "url": "251k/250181/144345464/250181_32866029_IMG_15_0000.jpeg",
+          "caption": "Rear"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/251k/250181/144345464/250181_32866029_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-13T14:17:45Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 865000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3865,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 250181,
+      "brandPlusLogoURI": "/251k/250181/branch_rmchoice_logo_250181_0000.jpeg",
+      "contactTelephone": "01628 965576",
+      "branchDisplayName": "Coopers, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Coopers",
+      "branchLandingPageUrl": "/estate-agents/agent/Coopers/Maidenhead-250181.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/251k/250181/branch_rmchoice_logo_250181_0000_max_100x50.jpeg"
+    },
+    "distance": 1.7188,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/144345464#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=144345464",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-02-03T12:03:08Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Coopers, Maidenhead",
+    "formattedDistance": "1.72 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 86462451,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A charming character cottage set in the culinary waterside village of Bray. Set in the very heart of the village.",
+    "displayAddress": "Bettoney Vere, Bray, Berkshire, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.50831,
+      "longitude": -0.698719
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_10_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_10_0000.jpeg",
+          "caption": "Rear Elevation"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_00_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_00_0000.jpeg",
+          "caption": "Main"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_06_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_06_0000.jpeg",
+          "caption": "Bedroom One"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_01_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_01_0000.jpeg",
+          "caption": "Drawing Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_02_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_02_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_03_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_03_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_04_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_04_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_05_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_05_0000.jpeg",
+          "caption": "Dining Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_07_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_07_0000.jpeg",
+          "caption": "Bedroom Two"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_08_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_08_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_09_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_09_0000.jpeg",
+          "caption": "Shower Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_11_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_11_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_12_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_12_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_13_0000_max_476x317.jpeg",
+          "url": "49k/48716/86462451/48716_WDS230221_IMG_13_0000.jpeg",
+          "caption": "Local River Front"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_10_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48716/86462451/48716_WDS230221_IMG_10_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Terraced",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-13T14:01:00Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 865000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3865,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 48716,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_14060_0001.jpeg",
+      "contactTelephone": "01753 251374",
+      "branchDisplayName": "Savills, Windsor",
+      "branchName": "Windsor",
+      "brandTradingName": "Savills",
+      "branchLandingPageUrl": "/estate-agents/agent/Savills/Windsor-48716.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_14060_0001_max_100x50.jpeg"
+    },
+    "distance": 1.2821,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/86462451#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=86462451",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-10-09T16:24:14Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Savills, Windsor",
+    "formattedDistance": "1.28 miles",
+    "propertyTypeFullDescription": "3 bedroom terraced house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 139043264,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 12,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Nestled within a sought-after neighbourhood in Maidenhead, Bray Court presents an opportunity to own a splendid four-bedroom detached property that effortlessly blends contemporary comfort with timeless charm. Situated on a generous plot, this residence offers a harmonious balance of ...",
+    "displayAddress": "Bray Court, Maidenhead, Berkshire, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.499407,
+      "longitude": -0.701401
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_12_0000.jpeg",
+          "caption": "Picture No. 26"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_01_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_01_0000.jpeg",
+          "caption": "Picture No. 07"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_13_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_13_0000.jpeg",
+          "caption": "Picture No. 24"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_14_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_14_0000.jpeg",
+          "caption": "Picture No. 25"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_04_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_04_0000.jpeg",
+          "caption": "Picture No. 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_05_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_05_0000.jpeg",
+          "caption": "Picture No. 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_06_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_06_0000.jpeg",
+          "caption": "Picture No. 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_07_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_07_0000.jpeg",
+          "caption": "Picture No. 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_08_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_08_0000.jpeg",
+          "caption": "Picture No. 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_09_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_09_0000.jpeg",
+          "caption": "Picture No. 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_10_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_10_0000.jpeg",
+          "caption": "Picture No. 23"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_11_0000_max_476x317.jpeg",
+          "url": "57k/56124/139043264/56124_MAS230583_IMG_11_0000.jpeg",
+          "caption": "Picture No. 09"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56124/139043264/56124_MAS230583_IMG_12_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-13T09:57:06Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 650000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3650,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 56124,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_3261_0009.jpeg",
+      "contactTelephone": "01628 969868",
+      "branchDisplayName": "Prospect Estate Agency, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Prospect Estate Agency",
+      "branchLandingPageUrl": "/estate-agents/agent/Prospect-Estate-Agency/Maidenhead-56124.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_3261_0009_max_100x50.jpeg"
+    },
+    "distance": 1.6441,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/139043264#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=139043264",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-08-24T12:03:13Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Prospect Estate Agency, Maidenhead",
+    "formattedDistance": "1.64 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145673234,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "numberOfImages": 29,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Superbly designed and renovated by the current owners this FOUR double bedroom detached family home comes to the market in stunning turn key condition. Located in an ideal setting, close to all the major access routes of Maidenhead this stunning property offers ample and versatile living and e...",
+    "displayAddress": "Windsor Road, Maidenhead, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.500796,
+      "longitude": -0.706537
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_00_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_01_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_02_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_03_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_04_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_05_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_06_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_07_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_08_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_09_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_10_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_11_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_12_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_13_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_14_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_15_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_16_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_17_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_18_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_19_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_19_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_20_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_20_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_21_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_21_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_22_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_22_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_23_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_23_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_24_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_24_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_25_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_25_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_26_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_26_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_27_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_27_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_28_0000_max_476x317.jpeg",
+          "url": "247k/246533/145673234/246533_27224329_IMG_28_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145673234/246533_27224329_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-13T09:14:37Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1000000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,000,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 246533,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_32702_0002.jpeg",
+      "contactTelephone": "01628 562680",
+      "branchDisplayName": "Oakwood Estates, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Oakwood Estates",
+      "branchLandingPageUrl": "/estate-agents/agent/Oakwood-Estates/Maidenhead-246533.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_32702_0002_max_100x50.jpeg"
+    },
+    "distance": 1.445,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145673234#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145673234",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-13T09:09:18Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Oakwood Estates, Maidenhead",
+    "formattedDistance": "1.45 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145672700,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "An immaculate five bedroom detached family home set within this highly regarded gated development. The property enjoys nearby access to Maidenhead Thicket for country pursuits yet is convenient for the commuter.",
+    "displayAddress": "The Bryher, Maidenhead, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.522676,
+      "longitude": -0.761942
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_18_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_14_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_01_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_15_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_03_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_16_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_05_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_06_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_07_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_17_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_19_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_19_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_11_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_20_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_20_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_13_0000_max_476x317.jpeg",
+          "url": "38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_13_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_18_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145672700/37874_a1nQ50000062dxwIAA_IMG_18_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-13T09:00:44Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1595000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,595,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 37874,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_59759_0003.jpeg",
+      "contactTelephone": "01628 965529",
+      "branchDisplayName": "Hamptons, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Hamptons",
+      "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Maidenhead-37874.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_59759_0003_max_100x50.jpeg"
+    },
+    "distance": 1.6987,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Gated Entrance",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "2,818 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145672700#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145672700",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-13T08:55:10Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Hamptons, Maidenhead",
+    "formattedDistance": "1.70 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145670711,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 20,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Tucked away in a quiet cul de sac is a well proportioned FOUR bedroom detached property within catchment and walking distance of Lowbrook Academy. With a spacious kitchen/diner, two reception room, downstairs wc, four bedrooms, two bathrooms and a garage that has been coverted into a gym, we f...",
+    "displayAddress": "The Fairway, Maidenhead, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.506659,
+      "longitude": -0.753873
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_00_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_01_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_02_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_03_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_04_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_05_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_06_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_07_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_08_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_09_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_10_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_11_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_12_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_13_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_14_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_15_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_16_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_17_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_18_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_18_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_19_0000_max_476x317.jpeg",
+          "url": "247k/246533/145670711/246533_27149811_IMG_19_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/247k/246533/145670711/246533_27149811_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-13T06:10:02Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 795000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3795,000",
+          "displayPriceQualifier": "Offers in Excess of"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 246533,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_32702_0002.jpeg",
+      "contactTelephone": "01628 562680",
+      "branchDisplayName": "Oakwood Estates, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Oakwood Estates",
+      "branchLandingPageUrl": "/estate-agents/agent/Oakwood-Estates/Maidenhead-246533.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_32702_0002_max_100x50.jpeg"
+    },
+    "distance": 1.5812,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145670711#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145670711",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-13T06:04:13Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Oakwood Estates, Maidenhead",
+    "formattedDistance": "1.58 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 145658861,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 19,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A five bedroom detached home which seamlessly blends classic New England style with contemporary living. Nestled in a prime location with a predominently west-facing garden the home backs onto the picturesque Pinkneys Green.",
+    "displayAddress": "Camley Park Drive, Maidenhead, SL6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.526057,
+      "longitude": -0.763652
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_00_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_01_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_02_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_03_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_04_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_05_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_06_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_07_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_08_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_09_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_10_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_11_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_12_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_13_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_14_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_15_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_16_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_17_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_18_0000_max_476x317.jpeg",
+          "url": "38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_18_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37874/145658861/37874_a1nQ5000005mZWrIAM_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-12T17:12:02Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1750000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,750,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 37874,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_59759_0003.jpeg",
+      "contactTelephone": "01628 965529",
+      "branchDisplayName": "Hamptons, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Hamptons",
+      "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Maidenhead-37874.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_59759_0003_max_100x50.jpeg"
+    },
+    "distance": 1.82,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Countryside Views",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "4,076 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145658861#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145658861",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-12T17:03:23Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Hamptons, Maidenhead",
+    "formattedDistance": "1.82 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

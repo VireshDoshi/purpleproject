@@ -1,0 +1,147 @@
+[
+  {
+    "id": 145813844,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Three bedroom semi-detached house with off-street parking and private garden. Sought-after location being within walking distance of the town centre, Maidenhead train station (mainline and Elizabeth Line) and local amenities.",
+    "displayAddress": "St. Marks Road, Maidenhead, Berkshire",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.5232,
+      "longitude": -0.737365
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_00_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_00_0000.jpeg",
+          "caption": "IMG-20240315-WA0000"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_01_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_01_0000.jpeg",
+          "caption": "62 St Marks Road-7"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_02_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_02_0000.jpeg",
+          "caption": "62 St Marks Road-1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_03_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_03_0000.jpeg",
+          "caption": "62 St Marks Road-10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_04_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_04_0000.jpeg",
+          "caption": "62 St Marks Road-9"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_05_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_05_0000.jpeg",
+          "caption": "62 St Marks Road-12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_06_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_06_0000.jpeg",
+          "caption": "62 St Marks Road-11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_07_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_07_0000.jpeg",
+          "caption": "62 St Marks Road-13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_08_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_08_0000.jpeg",
+          "caption": "62 St Marks Road-3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_09_0000_max_476x317.jpeg",
+          "url": "10k/9139/145813844/9139_RMR-24355405_IMG_09_0000.jpeg",
+          "caption": "62 St Marks Road-6"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9139/145813844/9139_RMR-24355405_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-16T12:24:02Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 575000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3575,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 9139,
+      "brandPlusLogoURI": "/10k/9139/branch_rmchoice_logo_9139_0000.jpeg",
+      "contactTelephone": "01628 563528",
+      "branchDisplayName": "Robinson Residential Sales and Lettings, Maidenhead",
+      "branchName": "Maidenhead",
+      "brandTradingName": "Robinson Residential Sales and Lettings",
+      "branchLandingPageUrl": "/estate-agents/agent/Robinson-Residential-Sales-and-Lettings/Maidenhead-9139.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/10k/9139/branch_rmchoice_logo_9139_0000_max_100x50.jpeg"
+    },
+    "distance": 0.6843,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/145813844#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=145813844",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-16T12:18:03Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "formattedBranchName": " by Robinson Residential Sales and Lettings, Maidenhead",
+    "formattedDistance": "0.68 miles",
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale",
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]
