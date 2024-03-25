@@ -1,0 +1,392 @@
+[
+  {
+    "id": 146083109,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "numberOfImages": 16,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "PARKERS - An impressive 4 bedroom / 3 bathroom detached home set just on a highly sought after road in Tilehurst. Having been extended by the current owners there is now approximately 2500sq.ft of accommodation and amongst the notable features are the 4 large double bedrooms, a 102ft rear garden ...",
+    "displayAddress": "Cockney Hill, Tilehurst, Reading, Berkshire, RG30",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.448648,
+      "longitude": -1.026285
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_00_0000.jpeg",
+          "caption": "Front"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_01_0000.jpeg",
+          "caption": "Kitchen/Diner"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_02_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_03_0000.jpeg",
+          "caption": "Gym"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_04_0000.jpeg",
+          "caption": "Living Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_05_0000.jpeg",
+          "caption": "Living Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_06_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_07_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_08_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_09_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_10_0000.jpeg",
+          "caption": "En-Suite"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_11_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_11_0000.jpeg",
+          "caption": "Bedroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_12_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_12_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_13_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_13_0000.jpeg",
+          "caption": "Rear Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_14_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_14_0000.jpeg",
+          "caption": "Rear Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_15_0000_max_476x317.jpeg",
+          "url": "7k/6296/146083109/6296_TIS240032_IMG_15_0000.jpeg",
+          "caption": "Front"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6296/146083109/6296_TIS240032_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-23T14:21:03Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 750000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3750,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6296,
+      "brandPlusLogoURI": "/7k/6296/branch_rmchoice_logo_6296_0001.jpeg",
+      "contactTelephone": "0118 230 4709",
+      "branchDisplayName": "Parkers Estate Agents, Tilehurst",
+      "branchName": "Tilehurst",
+      "brandTradingName": "Parkers Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Parkers-Estate-Agents/Tilehurst-6296.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/7k/6296/branch_rmchoice_logo_6296_0001_max_100x50.jpeg"
+    },
+    "distance": 1.8303,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146083109#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146083109",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-23T14:15:25Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Parkers Estate Agents, Tilehurst",
+    "formattedDistance": "1.83 miles",
+    "propertyTypeFullDescription": "4 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 146060519,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 24,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Situated in a cul-de sac address on the outskirts of the town centre is this impressive 1930's property which has been subject to considerable upgrading and extending to create a stunning family home. Finished with a high standard of specification the property is presented in a contemporary styl...",
+    "displayAddress": "Upavon Drive, Reading",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.447002,
+      "longitude": -0.986555
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_15_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_15_0000.jpeg",
+          "caption": "170_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_22_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_22_0000.jpeg",
+          "caption": "117_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_01_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_01_0000.jpeg",
+          "caption": "121_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_06_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_06_0000.jpeg",
+          "caption": "139_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_03_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_03_0000.jpeg",
+          "caption": "130_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_02_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_02_0000.jpeg",
+          "caption": "128_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_04_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_04_0000.jpeg",
+          "caption": "132_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_05_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_05_0000.jpeg",
+          "caption": "134_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_07_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_07_0000.jpeg",
+          "caption": "141_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_00_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_00_0000.jpeg",
+          "caption": "120_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_08_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_08_0000.jpeg",
+          "caption": "143_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_09_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_09_0000.jpeg",
+          "caption": "147_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_10_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_10_0000.jpeg",
+          "caption": "148_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_11_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_11_0000.jpeg",
+          "caption": "155_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_12_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_12_0000.jpeg",
+          "caption": "156_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_13_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_13_0000.jpeg",
+          "caption": "157_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_14_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_14_0000.jpeg",
+          "caption": "159_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_16_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_16_0000.jpeg",
+          "caption": "175_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_17_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_17_0000.jpeg",
+          "caption": "178_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_19_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_19_0000.jpeg",
+          "caption": "114_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_18_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_18_0000.jpeg",
+          "caption": "181_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_20_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_20_0000.jpeg",
+          "caption": "115_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_21_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_21_0000.jpeg",
+          "caption": "116_28426.JPG"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_23_0000_max_476x317.jpeg",
+          "url": "10k/9575/146060519/9575_32981206_IMG_23_0000.jpeg",
+          "caption": "118_28426.JPG"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_15_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/10k/9575/146060519/9575_32981206_IMG_15_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached Bungalow",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-22T16:19:04Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 650000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3650,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 9575,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_4517_0001.jpeg",
+      "contactTelephone": "0118 230 1217",
+      "branchDisplayName": "Haslams Estate Agents, Reading",
+      "branchName": "Reading",
+      "brandTradingName": "Haslams Estate Agents",
+      "branchLandingPageUrl": "/estate-agents/agent/Haslams-Estate-Agents/Reading-9575.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_4517_0001_max_100x50.jpeg"
+    },
+    "distance": 1.5061,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "South-Facing Garden",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "1,713 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146060519#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146060519",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-22T16:13:07Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Haslams Estate Agents, Reading",
+    "formattedDistance": "1.51 miles",
+    "propertyTypeFullDescription": "4 bedroom detached bungalow for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

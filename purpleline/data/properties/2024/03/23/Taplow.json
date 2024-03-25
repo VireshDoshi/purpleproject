@@ -1,0 +1,167 @@
+[
+  {
+    "id": 140212628,
+    "bedrooms": 3,
+    "bathrooms": 0,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "A charming three bedroom semi detached period home found on one of Burnham\u2019s most sought-after roads, offered to the market with the added benefit of having no further chain and in need of modernisation throughout.",
+    "displayAddress": "Green Lane, Burnham, SL1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.53779,
+      "longitude": -0.653203
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_00_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_00_0000.jpeg",
+          "caption": "External"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_01_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_01_0000.jpeg",
+          "caption": "Kitchen"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_02_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_02_0000.jpeg",
+          "caption": "Bedroom 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_03_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_03_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_04_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_04_0000.jpeg",
+          "caption": "Living Room"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_05_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_05_0000.jpeg",
+          "caption": "Bedroom 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_06_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_06_0000.jpeg",
+          "caption": "Bathroom"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_07_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_07_0000.jpeg",
+          "caption": "Bedroom 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_08_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_08_0000.jpeg",
+          "caption": "Garden"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_09_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_09_0000.jpeg",
+          "caption": "Double Garage"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_10_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_10_0000.jpeg",
+          "caption": "Landing"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_11_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_11_0000.jpeg",
+          "caption": "Bedroom 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_12_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_12_0000.jpeg",
+          "caption": "Balcony"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_13_0000_max_476x317.jpeg",
+          "url": "7k/6900/140212628/6900_BUR230151_IMG_13_0000.jpeg",
+          "caption": "Garden"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/7k/6900/140212628/6900_BUR230151_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2024-03-22T16:43:41Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 590000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3590,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 6900,
+      "brandPlusLogoURI": "/company/clogo_2202_0000.gif",
+      "contactTelephone": "01628 965776",
+      "branchDisplayName": "The Frost Partnership, Burnham",
+      "branchName": "Burnham",
+      "brandTradingName": "The Frost Partnership",
+      "branchLandingPageUrl": "/estate-agents/agent/The-Frost-Partnership/Burnham-6900.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_2202_0000_max_100x50.gif"
+    },
+    "distance": 1.5376,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/140212628#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=140212628",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-09-20T13:57:43Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "formattedBranchName": " by The Frost Partnership, Burnham",
+    "formattedDistance": "1.54 miles",
+    "enhancedListing": false,
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale",
+    "isRecent": true,
+    "addedOrReduced": "Reduced yesterday"
+  }
+]

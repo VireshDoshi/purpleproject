@@ -1,0 +1,342 @@
+[
+  {
+    "id": 146069936,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A 5 bedroom, 3 bathroom family home, extended and remodelled to a brand new specification to include new kitchen and bathrooms. Now offering over 2,500 sq ft of versatile family living space, this property also has an outdoor heated swimming pool and comes to market with no onward chain.",
+    "displayAddress": "Radnor Way, Langley, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.496955,
+      "longitude": -0.559182
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_01_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_02_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_03_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_04_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_05_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_06_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_07_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_08_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_09_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_10_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_10_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-22T18:41:04Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1250000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,250,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 37961,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_59759_0003.jpeg",
+      "contactTelephone": "01753 251698",
+      "branchDisplayName": "Hamptons, Windsor",
+      "branchName": "Windsor",
+      "brandTradingName": "Hamptons",
+      "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Windsor-37961.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_59759_0003_max_100x50.jpeg"
+    },
+    "distance": 1.7533,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Swimming Pool",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "2,548 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146069936#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146069936",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-22T18:35:55Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Hamptons, Windsor",
+    "formattedDistance": "1.75 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 146067311,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "numberOfImages": 19,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A substantial and very elegant character five/six bedroom family home, circa 1880, including a one/two bedroom annexe, detached garage and a detached gym. This property is situated behind a gated entrance, on a plot with private gardens, approaching 0.5 of an acre.",
+    "displayAddress": "Eton Road, Datchet, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.490323,
+      "longitude": -0.586139
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_00_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_01_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_02_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_03_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_04_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_05_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_06_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_07_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_08_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_09_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_10_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_11_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_12_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_13_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_14_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_15_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_15_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_16_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_16_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_17_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_17_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_18_0000_max_476x317.jpeg",
+          "url": "38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_18_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146067311/37961_a1nQ500000787umIAA_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-22T17:36:05Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 2000000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,000,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 37961,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_59759_0003.jpeg",
+      "contactTelephone": "01753 251698",
+      "branchDisplayName": "Hamptons, Windsor",
+      "branchName": "Windsor",
+      "brandTradingName": "Hamptons",
+      "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Windsor-37961.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_59759_0003_max_100x50.jpeg"
+    },
+    "distance": 1.5247,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Annexe",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "4,469 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146067311#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146067311",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-22T17:30:21Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Hamptons, Windsor",
+    "formattedDistance": "1.52 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

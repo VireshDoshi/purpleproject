@@ -1,0 +1,103 @@
+{
+  "columns": [
+    {
+      "field": "propertyid",
+      "title": "propertyid",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 125
+    },
+    {
+      "field": "walktoschool_score",
+      "title": "walktoschool_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 186
+    },
+    {
+      "field": "walltomcd_score",
+      "title": "walltomcd_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 167
+    },
+    {
+      "field": "walktostation_score",
+      "title": "walktostation_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 187
+    },
+    {
+      "field": "atleast3bed_score",
+      "title": "atleast3bed_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 178
+    },
+    {
+      "field": "closepool_score",
+      "title": "closepool_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 163
+    },
+    {
+      "field": "waitrosewithin1mile_score",
+      "title": "waitrosewithin1mile_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 226
+    },
+    {
+      "field": "nandosnearby_score",
+      "title": "nandosnearby_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 192
+    },
+    {
+      "field": "walktoclosestgym_score",
+      "title": "walktoclosestgym_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 217
+    },
+    {
+      "field": "atleastthreecloseparks_score",
+      "title": "atleastthreecloseparks_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 248
+    },
+    {
+      "field": "score",
+      "title": "score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 93
+    }
+  ]
+}

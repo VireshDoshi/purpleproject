@@ -9,16 +9,18 @@ from streamlit_folium import st_folium, folium_static
 import json
 import haversine as hs
 import os
+import plotly.express as px
+import plotly.graph_objects as go
 sys.path.insert(0, '/Users/vdoshi/github-desktop/purpleproject')
 from purpleline.constants.stations import Stations  # noqa: E402
-from purpleline.helper.helper import get_latest_properties_folder, get_latest_properties_folder_list  # noqa: E402
+from purpleline.helper.helper import get_latest_properties_folder, get_latest_properties_folder_list  # noqa: E402,E501
 
 
 STATIONS = Stations
 STATIONS_LIST = Stations.list()
 PROPERTY_EXTRACT_DATE = get_latest_properties_folder()
 PROPERTY_EXTRACT_DATES = get_latest_properties_folder_list()
-PROPERTY_DISPLAY_LIMIT = 2
+PROPERTY_DISPLAY_LIMIT = 30
 ROUTE_DIRECTIONS_KEY = os.getenv('ROUTE_DIRECTIONS_KEY')
 ROUTE_DIRECTIONS_HOST = os.getenv('ROUTE_DIRECTIONS_HOST')
 
@@ -43,8 +45,7 @@ def perfect_starter_family_property_score() -> float:
     8. The house has minimum 3 bedrooms
     9. The house has a garden
     10. the house has a driveway
-    11. There is a tescos superstore and sainsburys superstore withn 2 miles
-    12. There is a waitrose within 1 mile radius of the property
+    11. There is a waitrose within 1 mile radius of the property
 
 
     What is walking distance? 0.75 miles or less
@@ -139,7 +140,9 @@ def get_closest_station_to_property(prop_loc_lat, prop_loc_lon) -> tuple:
     return (stations_df['Station'].iloc[0], stations_df['distance_to_property'].iloc[0])
 
 
-def get_closest_landmark_to_property(prop_loc_lat, prop_loc_lon, landmark: str) -> tuple:
+def get_closest_landmark_to_property(prop_loc_lat,
+                                     prop_loc_lon,
+                                     landmark: str) -> tuple:
     landmarks_df = pd.read_csv('./purpleline/data/poi.csv',
                      usecols=['station', 'poi', 'Latitude', 'Longitude', 'Link'])
 
@@ -155,6 +158,17 @@ def get_closest_landmark_to_property(prop_loc_lat, prop_loc_lon, landmark: str) 
 
 def mark_properties(station: str, mymap: folium.Map, property_extract_date):
     properties = read_property_file(station, property_extract_date)
+
+    df_scores = pd.read_csv('./purpleline/data/perfecthome/generated_scores.csv',
+                            usecols=['propertyid', 'walktoschool_score',
+                                     'walltomcd_score', 'walktostation_score',
+                                     'atleast3bed_score',
+                                     'closepool_score', 'waitrosewithin1mile_score',
+                                     'nandosnearby_score',
+                                     'walktoclosestgym_score',
+                                     'atleastthreecloseparks_score',
+                                     'score'], dtype=str)
+    print(df_scores.head)
     limit_properties = PROPERTY_DISPLAY_LIMIT
     property_count = 0
     feature_groups[str(station)] = folium.FeatureGroup(
@@ -206,9 +220,23 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
 
         # Initialise the popup using the iframe
         popup = folium.Popup(iframe2, min_width=300, max_width=600)
+
+        # score = df_scores.query('propertyid == @property_id')['score'].values[0]
+        print(property_id)
+        try:
+            score = df_scores.loc[df_scores.propertyid == property_id,'score'].values[0]
+            # print(score.values[0])
+            score_str = str(score)
+            # score = "100"
+            icon = folium.features.CustomIcon(f'./purpleline/data/numicons/{score_str}.png',
+                                          icon_size=(50, 50))
+        except IndexError:
+            icon = folium.Icon(icon='home', prefix='fa')
+            print(f'This property doesnt have a perfect score entry {property_id}')
+
         folium.Marker(location=[lat, lon],
                       popup=popup, c=id,
-                      icon=folium.Icon(icon="home", prefix='fa'),
+                      icon=icon,
                       tooltip=f"{propertyTypeFullDesc} for {price}").add_to(
                           feature_groups[str(station)])
         property_count = property_count + 1
@@ -222,6 +250,12 @@ def read_property_file(station: str, property_date) -> json:
 
 
 def main():
+
+    @st.cache_data  # 👈 Add the caching decorator
+    def load_data(url):
+        df = pd.read_csv(url)
+        return df
+
     st.set_page_config(
         page_title="Elizabeth Line Project",
         page_icon="🧊",
@@ -248,6 +282,8 @@ def main():
         "2 miles": 2,
         "3 miles": 3
     }
+
+    df_scores = load_data("./purpleline/data/perfecthome/generated_scores.csv")
 
     df = pd.read_csv('./purpleline/data/Elizabeth-line-stations.csv',
                      usecols=['Station', 'Latitude', 'Longitude'])
@@ -315,6 +351,55 @@ def main():
         options=PROPERTY_EXTRACT_DATES,
         key="PROPERTY_EXTRACT_DATE"
     )
+    st.sidebar.write("Find your perfect home along near the Elizabeth Line. The pefect family home has minumum 3 beds, walkable to schools, parks, mcdonalds, near Nandos and a Swimming pool and near a Waitrose ")
+
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        # 145297841,10,10,10,10,10,10,7,10,10,78
+        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/153k/152918/145297841/152918_RX279922_IMG_00_0000_max_476x317.jpeg', caption='78 - Perfectly positioned to enjoy the convenience of Maidenhead town centre and a short walk to Oldfield primary school, this beautiful home has been thoughtfully extended and updated')
+
+
+        df_prop = df_scores[df_scores["propertyid"] == 145297841]
+        # delete unwanted columns
+        df_prop = df_prop.drop(['score', 'propertyid'], axis=1)
+        print(df_prop)
+
+        # transpose (switch columns/rows)
+        df_prop = df_prop.transpose(copy=True)
+
+        # reset index
+        df_prop.reset_index(inplace=True)
+
+        # use first row of DataFrame as header
+        df_prop.columns = df_prop.iloc[0]
+
+        # # delete first row
+        # df_prop = df_prop.iloc[1:]
+        column_names = ['attribute', 'score']
+        df_prop.columns = column_names
+        print(df_prop)
+        # st.plotly_chart(df_prop, use_container_width=True)
+        fig = px.pie(df_prop, labels=['attribute','score'], values='score', title='Perfect Home', hole=.40)
+        fig.update_layout(margin=dict(l=20, r=20, t=30, b=0), annotations=[
+        dict(
+            text='<b>78</b>', 
+            x=0.5, y=0.5, 
+            font_size=32,
+            showarrow=False
+            )]
+        )
+        fig.update_traces(textposition='inside', textinfo='value+percent')
+        st.plotly_chart(fig, use_container_width=True, theme='streamlit')
+
+
+    with col2:
+        # 145212074,10,10,10,10,7,10,7,10,10,75
+        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/225k/224927/145212074/224927_1271621_IMG_00_0000_max_476x317.jpeg', caption='75 - Featuring an impressively large rear garden and 2 garages, this spacious 4 bedroom family home is set at the end of a quiet residential cul-de-sac situated a short distance from Maidenhead town centre')
+
+    with col3:
+        # 145244900,10,10,10,10,7,10,10,5,10,73
+        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/63k/62080/145244900/62080_UK-S-41951_IMG_00_0001_max_476x317.jpeg', caption='73 - Exquisite four-bedroom river-front home')
 
 
 if __name__ == "__main__":

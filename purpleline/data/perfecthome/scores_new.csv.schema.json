@@ -1,0 +1,62 @@
+{
+  "fields": [
+    {
+      "name": "propertyid",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "walktoschool_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "walltomcd_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "walktostation_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "atleast3bed_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "closepool_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "waitrosewithin1mile_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "nandosnearby_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "walktoclosestgym_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "atleastthreecloseparks_score",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "score",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

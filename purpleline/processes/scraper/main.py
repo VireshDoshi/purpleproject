@@ -11,11 +11,11 @@ from purpleline.constants.stations import Stations  # noqa: E402
 
 # LOCATIONS = ["Maidenhead-2", "Taplow-1", "Twyford-0", "Slough-1", "Langley-4", "Reading-0"]
 LOCATIONS=Stations.rightmove_list()
-PROPERTY_EXTRACT_DATE = '2024/03/16'
+PROPERTY_EXTRACT_DATE = '2024/03/23'
 RESULTS_PER_PAGE = 24
 MIN_BEDS = 3
 MAX_BEDS = 6
-MAX_DAYS_ADDED = 1
+MAX_DAYS_ADDED = 3
 RADIUS = "2.0"
 # 1. establish HTTP client with browser-like headers to avoid being blocked
 client = AsyncClient(

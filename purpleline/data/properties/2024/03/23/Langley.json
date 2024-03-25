@@ -1,0 +1,542 @@
+[
+  {
+    "id": 141478643,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 23,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": " Situated on a corner plot and offering spacious accommodation B Simmons are delight to present to the market this extended semi detached family home. It has its own double detached garage and good transport links, with easy access to M4/M40/M25 and bus links to Langley railway station/Elizabeth...",
+    "displayAddress": "London Road, Langley",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.490135,
+      "longitude": -0.539404
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_00_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_00_0000.jpeg",
+          "caption": "Photo 6"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_01_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_01_0000.jpeg",
+          "caption": "Photo 1"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_02_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_02_0000.jpeg",
+          "caption": "Photo 9"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_03_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_03_0000.jpeg",
+          "caption": "Photo 7"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_04_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_04_0000.jpeg",
+          "caption": "Photo 8"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_05_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_05_0000.jpeg",
+          "caption": "Photo 13"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_06_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_06_0000.jpeg",
+          "caption": "Photo 15"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_07_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_07_0000.jpeg",
+          "caption": "Photo 19"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_08_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_08_0000.jpeg",
+          "caption": "Photo 2"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_09_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_09_0000.jpeg",
+          "caption": "Photo 20"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_10_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_10_0000.jpeg",
+          "caption": "Photo 21"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_11_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_11_0000.jpeg",
+          "caption": "Photo 22"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_12_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_12_0000.jpeg",
+          "caption": "Photo 3"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_13_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_13_0000.jpeg",
+          "caption": "Photo 4"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_14_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_14_0000.jpeg",
+          "caption": "Photo 5"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_15_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_15_0000.jpeg",
+          "caption": "Photo 12"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_16_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_16_0000.jpeg",
+          "caption": "Photo 17"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_17_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_17_0000.jpeg",
+          "caption": "Photo 18"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_18_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_18_0000.jpeg",
+          "caption": "Photo 10"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_19_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_19_0000.jpeg",
+          "caption": "Photo 11"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_20_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_20_0000.jpeg",
+          "caption": "Photo 14"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_21_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_21_0000.jpeg",
+          "caption": "Photo 16"
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_22_0000_max_476x317.jpeg",
+          "url": "108k/107261/141478643/107261_12166139_IMG_22_0000.jpeg",
+          "caption": "Photo 23"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107261/141478643/107261_12166139_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Semi-Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-23T10:29:37Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 625000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3625,000",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 107261,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_2114_0003.jpeg",
+      "contactTelephone": "01753 969796",
+      "branchDisplayName": "B. Simmons, Langley",
+      "branchName": "Langley",
+      "brandTradingName": "B. Simmons",
+      "branchLandingPageUrl": "/estate-agents/agent/B-Simmons/Langley-107261.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/company/clogo_rmchoice_2114_0003_max_100x50.jpeg"
+    },
+    "distance": 1.2385,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/141478643#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=141478643",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2023-10-31T14:12:56Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": true,
+    "lozengeModel": {
+      "matchingLozenges": [
+        {
+          "type": "ONLINE_VIEWINGS",
+          "priority": 6
+        }
+      ]
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by B. Simmons, Langley",
+    "formattedDistance": "1.24 miles",
+    "propertyTypeFullDescription": "3 bedroom semi-detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 146069936,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A 5 bedroom, 3 bathroom family home, extended and remodelled to a brand new specification to include new kitchen and bathrooms. Now offering over 2,500 sq ft of versatile family living space, this property also has an outdoor heated swimming pool and comes to market with no onward chain.",
+    "displayAddress": "Radnor Way, Langley, SL3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.496955,
+      "longitude": -0.559182
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_01_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_02_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_03_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_04_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_05_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_06_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_07_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_08_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_09_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_10_0000_max_476x317.jpeg",
+          "url": "38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_10_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37961/146069936/37961_a1nQ50000075A9BIAU_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-22T18:41:04Z"
+    },
+    "premiumListing": true,
+    "featuredProperty": false,
+    "price": {
+      "amount": 1250000,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,250,000",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 37961,
+      "brandPlusLogoURI": "/brand/brand_rmchoice_logo_59759_0003.jpeg",
+      "contactTelephone": "01753 251698",
+      "branchDisplayName": "Hamptons, Windsor",
+      "branchName": "Windsor",
+      "brandTradingName": "Hamptons",
+      "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Windsor-37961.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/brand/brand_rmchoice_logo_59759_0003_max_100x50.jpeg"
+    },
+    "distance": 1.0615,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "Swimming Pool",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "2,548 sq. ft.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146069936#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146069936",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-22T18:35:55Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by Hamptons, Windsor",
+    "formattedDistance": "1.06 miles",
+    "propertyTypeFullDescription": "5 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  },
+  {
+    "id": 146069303,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "numberOfImages": 16,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Offered to the market with no onward chain, is this thoughtfully designed, three-bedroom, detached family home in Langley. Perfectly situated for schooling options, both primary and secondary, this house is ideal for a growing family. The property offers an excellent layout with well-proportio...",
+    "displayAddress": "Dewar Spur, Langley",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.491264,
+      "longitude": -0.549984
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_00_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_00_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_01_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_01_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_02_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_02_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_03_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_03_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_04_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_04_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_05_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_05_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_06_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_06_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_07_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_07_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_08_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_08_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_09_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_09_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_10_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_10_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_11_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_11_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_12_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_12_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_13_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_13_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_14_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_14_0000.jpeg",
+          "caption": null
+        },
+        {
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_15_0000_max_476x317.jpeg",
+          "url": "239k/238277/146069303/238277_S887056_IMG_15_0000.jpeg",
+          "caption": null
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/239k/238277/146069303/238277_S887056_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Detached",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2024-03-22T18:19:03Z"
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "price": {
+      "amount": 499950,
+      "frequency": "not specified",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3499,950",
+          "displayPriceQualifier": "Guide Price"
+        }
+      ]
+    },
+    "customer": {
+      "branchId": 238277,
+      "brandPlusLogoURI": "/239k/238277/branch_rmchoice_logo_238277_0001.png",
+      "contactTelephone": "03304 609968",
+      "branchDisplayName": "eXp UK, South East",
+      "branchName": "South East",
+      "brandTradingName": "eXp UK",
+      "branchLandingPageUrl": "/estate-agents/agent/eXp-UK/South-East-238277.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/dir/239k/238277/branch_rmchoice_logo_238277_0001_max_100x50.png"
+    },
+    "distance": 1.2049,
+    "transactionType": "buy",
+    "productLabel": {
+      "productLabelText": "",
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": false,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/146069303#/?channel=RES_BUY",
+    "contactUrl": "/property-for-sale/contactBranch.html?propertyId=146069303",
+    "staticMapUrl": null,
+    "channel": "BUY",
+    "firstVisibleDate": "2024-03-22T18:13:37Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "heading": "",
+    "addedOrReduced": "Added yesterday",
+    "formattedBranchName": " by eXp UK, South East",
+    "formattedDistance": "1.20 miles",
+    "propertyTypeFullDescription": "3 bedroom detached house for sale",
+    "isRecent": true,
+    "enhancedListing": false
+  }
+]

@@ -1,10 +1,10 @@
-station,poi,Latitude,Longitude,Link, Brand
-Maidenhead,Braywick Leisure centre, 51.51030436891148, -0.7133238624845909, www.leisurefocus.org.uk/our-centres/braywick-leisure-centre/, No
-Maidenhead,mcdonalds, 51.522885733119715, -0.7212925719583863, www.mcdonalds.co.uk, Yes
-Maidenhead,Library, 51.52236953478425, -0.7174334222240222, www.rbwm.co.uk, No
-Maidenhead,Kidwells park, 51.524545721452064, -0.72197171985833, www.rbwm.co.uk, Yes
-Maidenhead,Nandos, 51.522795762692716, -0.6783561474861883, www.nandos.co.uk, Yes
-Maidenhead,Waitrose, 51.5232937790332, -0.7141816246067482, www.waitrose.co.uk, Yes
+station,poi,Latitude,Longitude,Link,Brand
+Maidenhead,pool, 51.51030436891148, -0.7133238624845909, www.leisurefocus.org.uk/our-centres/braywick-leisure-centre/,No
+Maidenhead,mcdonalds, 51.522885733119715, -0.7212925719583863, www.mcdonalds.co.uk,Yes
+Maidenhead,library, 51.52236953478425, -0.7174334222240222, www.rbwm.co.uk, No
+Maidenhead,park, 51.524545721452064, -0.72197171985833, www.rbwm.co.uk, Yes
+Maidenhead,nandos, 51.522795762692716, -0.6783561474861883, www.nandos.co.uk, Yes
+Maidenhead,waitrose, 51.5232937790332, -0.7141816246067482, www.waitrose.co.uk, Yes
 Maidenhead,Sainsburys, 51.520372461442506, -0.6685922489884956, www.sainsburys.co.uk, Yes
 Taplow,Asda, 51.50797791472881, -0.628286707842935, www.asda.co.uk, Yes
 Taplow,Starbucks, 51.52038412521332, -0.6689019309901432, www.starbucks.co.uk, Yes
@@ -18,3 +18,10 @@ Slough,mcdonalds,51.52074088176843, -0.6152238302546745,www.mc,Yes
 Slough,mcdonalds,51.50861279405796, -0.5911006225563403,www.mc,Yes
 Slough,mcdonalds,51.50327040478836, -0.5996836909034567,www.mc,Yes
 all,gatwick,51.154341918481435, -0.1752226011130205,,No
+Maidenhead,gym,51.52059539368597, -0.7249428914362308,www.davidlloyd.co.uk,No
+Maidenhead,park,51.502914350601095, -0.7337115682091071, ockwells park,No
+Maidenhead,park,51.52021502663922, -0.7240999301403497,grenfell park, No
+Windsor,waitrose,51.48304639059576, -0.607191898916807,waitrose windsor, Yes
+Bracknell,waitrose,51.41913940766847, -0.7490598830084836,waitrose bracknell, Yes
+Maidenhead,school,51.51604661675512, -0.709033946774291,olfdield primary school, No
+Maidenhead,school,51.53216895715177, -0.7201082945862,riverside primary school, No
