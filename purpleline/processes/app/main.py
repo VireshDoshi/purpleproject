@@ -391,36 +391,6 @@ def main():
         plot_pie_chart(df_scores=df_scores, prop_id=145297841)
         st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/153k/152918/145297841/152918_RX279922_IMG_00_0000_max_476x317.jpeg', caption='78 - Perfectly positioned to enjoy the convenience of Maidenhead town centre and a short walk to Oldfield primary school, this beautiful home has been thoughtfully extended and updated')
 
-        # # Plot the Pie Chart
-        # df_prop = df_scores[df_scores["propertyid"] == 145297841]
-        # # delete unwanted columns
-        # df_prop = df_prop.drop(['score', 'propertyid'], axis=1)
-        # # print(df_prop)
-
-        # # transpose (switch columns/rows)
-        # df_prop = df_prop.transpose(copy=True)
-        # # reset index
-        # df_prop.reset_index(inplace=True)
-        # # use first row of DataFrame as header
-        # df_prop.columns = df_prop.iloc[0]
-
-        # # # delete first row
-        # # df_prop = df_prop.iloc[1:]
-        # column_names = ['attribute', 'score']
-        # df_prop.columns = column_names
-        # fig2 = go.Figure(data=go.Pie(labels=["walk to school","walk to macdonalds","walk to the station", "has at least 3 bedrooms", "close to a swimming pool", "waitrose is 1 mile away", "nandos is nearyby", "walk to the gym", "at least 3 parks nearby"], values=df_prop['score'], sort=False, hole=.40, showlegend=False))
-        # fig2.update_traces(textposition='inside', textinfo='label+percent')
-        # fig2.update_layout(margin=dict(l=20, r=20, t=30, b=0), annotations=[
-        # dict(
-        #     text='<b>78%</b>', 
-        #     x=0.5, y=0.5, 
-        #     font_size=32,
-        #     showarrow=False
-        #     )]
-        # )
-        # st.plotly_chart(fig2, use_container_width=True, theme='streamlit')
-
-
     with col2:
         # 145212074,10,10,10,10,7,10,7,10,10,75
         st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/225k/224927/145212074/224927_1271621_IMG_00_0000_max_476x317.jpeg', caption='75 - Featuring an impressively large rear garden and 2 garages, this spacious 4 bedroom family home is set at the end of a quiet residential cul-de-sac situated a short distance from Maidenhead town centre')
