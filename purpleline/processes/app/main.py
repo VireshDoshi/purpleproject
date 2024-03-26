@@ -160,10 +160,17 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
     properties = read_property_file(station, property_extract_date)
 
     df_scores = pd.read_csv('./purpleline/data/perfecthome/generated_scores.csv',
-                            usecols=['propertyid', 'walktoschool_score',
-                                     'walltomcd_score', 'walktostation_score',
+                            usecols=['propertyid',
+                                     'bedrooms',
+                                     'price',
+                                     'mainimage',
+                                     'propertytypefulldesc',
+                                     'walktoschool_score',
+                                     'walltomcd_score',
+                                     'walktostation_score',
                                      'atleast3bed_score',
-                                     'closepool_score', 'waitrosewithin1mile_score',
+                                     'closepool_score',
+                                     'waitrosewithin1mile_score',
                                      'nandosnearby_score',
                                      'walktoclosestgym_score',
                                      'atleastthreecloseparks_score',
@@ -185,7 +192,7 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
         property_id = str(property["id"])
         propertyTypeFullDesc = str(property["propertyTypeFullDescription"])
         price = str(property["price"]["displayPrices"][0]["displayPrice"])
-        main_image = str(property["propertyImages"]["mainImageSrc"])
+        mainimage = str(property["propertyImages"]["mainImageSrc"])
 
         # Add each row to the map
         lat = float(property["location"]["latitude"])
@@ -215,7 +222,7 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
         popup_html += f"<h4>it will take {ikea_time_int} mins to travel to Ikea by car</h4>"
         popup_html += f"<h4>it will take {gatwick_time_int} mins to travel to Gatwick by car</h4>"
 
-        popup_html += f"<img src='{main_image}' alt='property'>"
+        popup_html += f"<img src='{mainimage}' alt='property'>"
         iframe2 = folium.IFrame(html=popup_html, height=400, width=400)
 
         # Initialise the popup using the iframe
@@ -249,12 +256,17 @@ def read_property_file(station: str, property_date) -> json:
     return json.loads(f.read())
 
 
-def plot_pie_chart(df_scores: pd, prop_id: int) -> None:
+def plot_pie_chart(df_scores: pd, prop_id: int, subtitle: str) -> None:
     df_prop = df_scores[df_scores["propertyid"] == prop_id]
+    print(df_prop)
     perfect_score = df_prop["score"].values[0]
+    mainimage = df_prop["mainimage"].values[0]
+    propertytypefulldesc = df_prop["propertytypefulldesc"].values[0]
+    price = df_prop["price"].values[0]
+
     print(perfect_score)
     # delete unwanted columns
-    df_prop = df_prop.drop(['score', 'propertyid'], axis=1)
+    df_prop = df_prop.drop(['score', 'propertyid', 'bedrooms', 'price', 'mainimage', 'propertytypefulldesc'], axis=1)
     # print(df_prop)
 
     # transpose (switch columns/rows)
@@ -268,7 +280,7 @@ def plot_pie_chart(df_scores: pd, prop_id: int) -> None:
     # df_prop = df_prop.iloc[1:]
     column_names = ['attribute', 'score']
     df_prop.columns = column_names
-    fig2 = go.Figure(data=go.Pie(labels=["walk to school","walk to macdonalds","walk to the station", "has at least 3 bedrooms", "close to a swimming pool", "waitrose is 1 mile away", "nandos is nearyby", "walk to the gym", "at least 3 parks nearby"], values=df_prop['score'], sort=False, hole=.40, showlegend=False))
+    fig2 = go.Figure(data=go.Pie(titleposition='top center', title=f'{price}',labels=["walk to school","walk to macdonalds","walk to the station", "has at least 3 bedrooms", "close to a swimming pool", "waitrose is 1 mile away", "nandos is nearyby", "walk to the gym", "at least 3 parks nearby"], values=df_prop['score'], sort=False, hole=.40, showlegend=False))
     fig2.update_traces(textposition='inside', textinfo='label+percent')
     fig2.update_layout(margin=dict(l=20, r=20, t=30, b=0), annotations=[
     dict(
@@ -278,8 +290,11 @@ def plot_pie_chart(df_scores: pd, prop_id: int) -> None:
         showarrow=False
         )]
     )
+    st.header(f'{subtitle}, {price}')
     st.plotly_chart(fig2, use_container_width=True, theme='streamlit')
-        
+    st.image(mainimage, caption=propertytypefulldesc)
+
+
 def main():
 
     @st.cache_data  # 👈 Add the caching decorator
@@ -388,18 +403,22 @@ def main():
 
     with col1:
         # 145297841,10,10,10,10,10,10,7,10,10,78
-        plot_pie_chart(df_scores=df_scores, prop_id=145297841)
-        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/153k/152918/145297841/152918_RX279922_IMG_00_0000_max_476x317.jpeg', caption='78 - Perfectly positioned to enjoy the convenience of Maidenhead town centre and a short walk to Oldfield primary school, this beautiful home has been thoughtfully extended and updated')
+        df_prop_id = df_scores.sort_values(['score'], ascending=False)
+        prop_id=df_prop_id['propertyid'].values[0]
+        plot_pie_chart(df_scores=df_scores, prop_id=prop_id, subtitle="highest score")
 
     with col2:
         # 145212074,10,10,10,10,7,10,7,10,10,75
-        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/225k/224927/145212074/224927_1271621_IMG_00_0000_max_476x317.jpeg', caption='75 - Featuring an impressively large rear garden and 2 garages, this spacious 4 bedroom family home is set at the end of a quiet residential cul-de-sac situated a short distance from Maidenhead town centre')
-        plot_pie_chart(df_scores=df_scores, prop_id=145212074)
+        df_prop_id = df_scores.sort_values(['score'], ascending=True)
+        prop_id=df_prop_id['propertyid'].values[0]
+        plot_pie_chart(df_scores=df_scores, prop_id=prop_id,subtitle="lowest score")
 
     with col3:
         # 145244900,10,10,10,10,7,10,10,5,10,73
-        st.image('https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/63k/62080/145244900/62080_UK-S-41951_IMG_00_0001_max_476x317.jpeg', caption='73 - Exquisite four-bedroom river-front home')
-        plot_pie_chart(df_scores=df_scores, prop_id=145244900)
+        df_prop_id = df_scores.sort_values(['score'], ascending=False).head(20)
+        df_cheap_high = df_prop_id.sort_values(['price'], ascending=True)
+        prop_id=df_cheap_high['propertyid'].values[0]
+        plot_pie_chart(df_scores=df_scores, prop_id=prop_id, subtitle="cheapest highest score")
 
 
 if __name__ == "__main__":

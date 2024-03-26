@@ -14,11 +14,23 @@ class Property(object):
 
 class PerfectHome(object):
 
-    def __init__(self, propertyid, property_extract_date, station, bedrooms, latitude, longitude):
+    def __init__(self,
+                 propertyid,
+                 bedrooms,
+                 price,
+                 main_image,
+                 propertyTypeFullDesc,
+                 property_extract_date,
+                 station,
+                 latitude,
+                 longitude):
         self.property_extract_date = property_extract_date
         self.station = station
         self.propertyid = propertyid
         self.bedrooms = bedrooms
+        self.price = price
+        self.main_image = main_image
+        self.propertyTypeFullDesc = propertyTypeFullDesc
         self.latitude = float(latitude)
         self.longitude = float(longitude)
         # self.property_obj = self.get_property_info(bedrooms=bedrooms, latitude=latitude,longitude=longitude)
@@ -202,12 +214,23 @@ class PerfectHome(object):
             return 0
 
     def perfectScoreDataRow(self):
-        return f'{self.propertyid},{self.walktoschool_score},{self.walltomcd_score},{self.walktostation_score},{self.atleast3bed_score},{self.closepool_score},{self.waitrosewithin1mile_score},{self.nandosnearby_score},{self.walktoclosestgym_score},{self.atleastthreecloseparks_score},{self.score}'
+        return f'{self.propertyid},' \
+               f'{self.bedrooms},' \
+               f'{self.price},' \
+               f'{self.main_image},' \
+               f'{self.propertyTypeFullDesc},' \
+               f'{self.walktoschool_score},{self.walltomcd_score},' \
+               f'{self.walktostation_score},{self.atleast3bed_score},' \
+               f'{self.closepool_score},{self.waitrosewithin1mile_score},' \
+               f'{self.nandosnearby_score},' \
+               f'{self.walktoclosestgym_score},' \
+               f'{self.atleastthreecloseparks_score},' \
+               f'{self.score}'
 
 
 # PROPERTY_EXTRACT_DATE = '2024/03/23'
 PROPERTY_EXTRACT_DATE = '**/**/**'
-header = 'propertyid,walktoschool_score,walltomcd_score,walktostation_score,atleast3bed_score,closepool_score,waitrosewithin1mile_score,nandosnearby_score,walktoclosestgym_score,atleastthreecloseparks_score,score'
+header = 'propertyid,bedrooms,price,main_image,propertytypefulldesc,walktoschool_score,walltomcd_score,walktostation_score,atleast3bed_score,closepool_score,waitrosewithin1mile_score,nandosnearby_score,walktoclosestgym_score,atleastthreecloseparks_score,score'
 
 # this finds our json files
 listing = glob('./purpleline/data/properties/' + PROPERTY_EXTRACT_DATE + '/*.json')
@@ -215,7 +238,15 @@ listing = glob('./purpleline/data/properties/' + PROPERTY_EXTRACT_DATE + '/*.jso
 
 # json_files = [pos_json for pos_json in listing if pos_json.endswith('.json')]
 
-property_df = pd.DataFrame(columns=['propertyid', 'bedrooms', 'latitude', 'longitude', 'station', 'prop_extract_date'])
+property_df = pd.DataFrame(columns=['propertyid',
+                                    'bedrooms',
+                                    'price',
+                                    'main_image',
+                                    'propertyTypeFullDesc',
+                                    'latitude',
+                                    'longitude',
+                                    'station',
+                                    'prop_extract_date'])
 property_df["propertyid"] = pd.Series([], dtype=object)
 
 # we need both the json and an index number so use enumerate()
@@ -228,13 +259,24 @@ for js in listing:
             # print(json_file.name)
             propertyid = data["id"]
             bedrooms = data["bedrooms"]
+            price = str(data["price"]["amount"])
+            main_image = str(data["propertyImages"]["mainImageSrc"])
+            propertyTypeFullDesc = str(data["propertyTypeFullDescription"])
             latitude = data["location"]["latitude"]
             longitude = data["location"]["longitude"]
             station = Path(json_file.name).stem
             prop_extract_date = str(Path(json_file.name).parts[3] + '/' + Path(json_file.name).parts[4] + '/' + Path(json_file.name).parts[5])
             # bathrooms = data["bathrooms"]
             # here I push a list of data into a pandas DataFrame at row given by 'index'
-            property_df.loc[index] = [propertyid, bedrooms, latitude, longitude, station, prop_extract_date]
+            property_df.loc[index] = [propertyid,
+                                      bedrooms,
+                                      price,
+                                      main_image,
+                                      propertyTypeFullDesc,
+                                      latitude,
+                                      longitude,
+                                      station,
+                                      prop_extract_date]
             index = index + 1
 
 
@@ -251,9 +293,12 @@ with open("./purpleline/data/perfecthome/generated_scores.csv", "w") as scoresfi
     for index, row in property_df.iterrows():
         print(row['propertyid'])
         perfectscore = PerfectHome(row['propertyid'],
+                                   row['bedrooms'],
+                                   row['price'],
+                                   row['main_image'],
+                                   row['propertyTypeFullDesc'],
                                    row['prop_extract_date'],
                                    row['station'],
-                                   row['bedrooms'],
                                    row['latitude'],
                                    row['longitude']
                                    )
