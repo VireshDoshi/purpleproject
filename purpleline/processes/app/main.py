@@ -163,6 +163,9 @@ def mark_properties(station: str, mymap: folium.Map, property_extract_date):
                             usecols=['propertyid',
                                      'bedrooms',
                                      'price',
+                                     'latitude',
+                                     'longitude',
+                                     'propextractdate',
                                      'mainimage',
                                      'propertytypefulldesc',
                                      'walktoschool_score',
@@ -266,7 +269,16 @@ def plot_pie_chart(df_scores: pd, prop_id: int, subtitle: str) -> None:
 
     print(perfect_score)
     # delete unwanted columns
-    df_prop = df_prop.drop(['score', 'propertyid', 'bedrooms', 'price', 'mainimage', 'propertytypefulldesc'], axis=1)
+    df_prop = df_prop.drop(['score',
+                            'propertyid',
+                            'bedrooms',
+                            'price',
+                            'latitude',
+                            'longitude',
+                            'propextractdate',
+                            'mainimage',
+                            'propertytypefulldesc'
+                            ], axis=1)
     # print(df_prop)
 
     # transpose (switch columns/rows)
@@ -281,7 +293,7 @@ def plot_pie_chart(df_scores: pd, prop_id: int, subtitle: str) -> None:
     column_names = ['attribute', 'score']
     df_prop.columns = column_names
     fig2 = go.Figure(data=go.Pie(titleposition='top center', title=f'{price}',labels=["walk to school","walk to macdonalds","walk to the station", "has at least 3 bedrooms", "close to a swimming pool", "waitrose is 1 mile away", "nandos is nearyby", "walk to the gym", "at least 3 parks nearby"], values=df_prop['score'], sort=False, hole=.40, showlegend=False))
-    fig2.update_traces(textposition='inside', textinfo='label+percent')
+    fig2.update_traces(textposition='inside', textinfo='label+value')
     fig2.update_layout(margin=dict(l=20, r=20, t=30, b=0), annotations=[
     dict(
         text=f'<b>{perfect_score}%</b>', 
@@ -293,6 +305,9 @@ def plot_pie_chart(df_scores: pd, prop_id: int, subtitle: str) -> None:
     st.header(f'{subtitle}, {price}')
     st.plotly_chart(fig2, use_container_width=True, theme='streamlit')
     st.image(mainimage, caption=propertytypefulldesc)
+
+def click_button():
+    st.session_state.clicked = True
 
 
 def main():
@@ -318,9 +333,10 @@ def main():
     # Set the station to Maidenhead
     if "station" not in st.session_state:
         st.session_state.station = STATIONS.MAIDENHEAD.value.name
-        # Set the station to Maidenhead
+    # Set the station to Maidenhead
     if "PROPERTY_EXTRACT_DATE" not in st.session_state:
         st.session_state.PROPERTY_EXTRACT_DATE = PROPERTY_EXTRACT_DATE
+
 
     data = {
         "0.1 mile": 0.1,

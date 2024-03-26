@@ -217,6 +217,9 @@ class PerfectHome(object):
         return f'{self.propertyid},' \
                f'{self.bedrooms},' \
                f'{self.price},' \
+               f'{self.latitude},' \
+               f'{self.longitude},' \
+               f'{self.property_extract_date},' \
                f'{self.main_image},' \
                f'{self.propertyTypeFullDesc},' \
                f'{self.walktoschool_score},{self.walltomcd_score},' \
@@ -230,7 +233,7 @@ class PerfectHome(object):
 
 # PROPERTY_EXTRACT_DATE = '2024/03/23'
 PROPERTY_EXTRACT_DATE = '**/**/**'
-header = 'propertyid,bedrooms,price,main_image,propertytypefulldesc,walktoschool_score,walltomcd_score,walktostation_score,atleast3bed_score,closepool_score,waitrosewithin1mile_score,nandosnearby_score,walktoclosestgym_score,atleastthreecloseparks_score,score'
+header = 'propertyid,bedrooms,price,latitude,longitude,propextractdate,mainimage,propertytypefulldesc,walktoschool_score,walltomcd_score,walktostation_score,atleast3bed_score,closepool_score,waitrosewithin1mile_score,nandosnearby_score,walktoclosestgym_score,atleastthreecloseparks_score,score'
 
 # this finds our json files
 listing = glob('./purpleline/data/properties/' + PROPERTY_EXTRACT_DATE + '/*.json')
